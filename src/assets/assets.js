@@ -2,12 +2,17 @@ import diamondlogo from './diamondlogo.jpg'
 import search_icon from './search_icon.png'
 import cart_icon from './cart_icon.png'
 import profile_icon from './profile_icon.jpg'
+import menu_icon from './menu_icon.jpg'
+import dropdown_icon from './dropdown_icon.png'
+
 
 export const assets = {
     diamondlogo,
     search_icon,
     cart_icon,
-    profile_icon
+    profile_icon,
+    menu_icon,
+    dropdown_icon
 
 }
 
