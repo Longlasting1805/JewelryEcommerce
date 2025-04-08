@@ -4,6 +4,7 @@ import cart_icon from './cart_icon.png'
 import profile_icon from './profile_icon.jpg'
 import menu_icon from './menu_icon.jpg'
 import dropdown_icon from './dropdown_icon.png'
+import hero_img from './hero_img.jpg'
 
 
 export const assets = {
@@ -12,7 +13,8 @@ export const assets = {
     cart_icon,
     profile_icon,
     menu_icon,
-    dropdown_icon
+    dropdown_icon, 
+    hero_img
 
 }
 
