@@ -5,6 +5,9 @@ import profile_icon from './profile_icon.jpg'
 import menu_icon from './menu_icon.jpg'
 import dropdown_icon from './dropdown_icon.png'
 import hero_img from './hero_img.jpg'
+import customer_support from './customer_support.jpg'
+import refund_policy from './refund_policy.jpg'
+import exchange_logo from './exchange_logo.png'
 
 
 export const assets = {
@@ -14,7 +17,10 @@ export const assets = {
     profile_icon,
     menu_icon,
     dropdown_icon, 
-    hero_img
+    hero_img, 
+    customer_support,
+    refund_policy,
+    exchange_logo
 
 }
 
