@@ -27,7 +27,7 @@ export const products =[{
     category: "women",
     sizes: ["S", "M", "L"],
     date: 15442556, 
-    bestseller: true
+    bestseller: false
 
 }, 
 {
@@ -123,7 +123,7 @@ export const products =[{
     category: "men",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
-    bestseller: false
+    bestseller: true
 
 },
 {
@@ -135,7 +135,7 @@ export const products =[{
     category: "men",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
-    bestseller: false
+    bestseller: true
 
 },
 {
