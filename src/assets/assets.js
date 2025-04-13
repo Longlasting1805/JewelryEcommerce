@@ -33,6 +33,7 @@ export const products =[{
     price: 1000,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["S", "M", "L"],
     date: 15442556, 
     bestseller: false
@@ -40,11 +41,12 @@ export const products =[{
 }, 
 {
     _id: "aaaaab",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 3200,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -52,11 +54,12 @@ export const products =[{
 },
 {
     _id: "aaaaac",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Kids Wrist Watch", 
+    description: "A lightweight kid wrist watch",
     price: 6500,
     image: [hero_img, hero_img], 
     category: "Kids",
+    subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -64,11 +67,12 @@ export const products =[{
 },
 {
     _id: "aaaaad",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 9500,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -76,11 +80,12 @@ export const products =[{
 },
 {
     _id: "aaaaae",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 200,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -88,11 +93,12 @@ export const products =[{
 },
 {
     _id: "aaaaaf",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 2500,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -100,11 +106,12 @@ export const products =[{
 },
 {
     _id: "aaaaag",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 11500,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -112,11 +119,12 @@ export const products =[{
 },
 {
     _id: "aaaaah",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 50,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -124,11 +132,12 @@ export const products =[{
 },
 {
     _id: "aaaaai",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 4500,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -136,11 +145,12 @@ export const products =[{
 },
 {
     _id: "aaaaaj",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 5000,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -148,11 +158,12 @@ export const products =[{
 },
 {
     _id: "aaaaak",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -160,11 +171,12 @@ export const products =[{
 },
 {
     _id: "aaaaal",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -172,11 +184,12 @@ export const products =[{
 },
 {
     _id: "aaaaam",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -184,11 +197,12 @@ export const products =[{
 },
 {
     _id: "aaaaan",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -196,11 +210,12 @@ export const products =[{
 },
 {
     _id: "aaaaao",
-    name: "men Wrist Watch", 
+    name: "Women Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
-    category: "Kids",
+    category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -208,11 +223,12 @@ export const products =[{
 },
 {
     _id: "aaaaap",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men Watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -220,11 +236,12 @@ export const products =[{
 },
 {
     _id: "aaaaaq",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -232,11 +249,12 @@ export const products =[{
 },
 {
     _id: "aaaaar",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -244,11 +262,12 @@ export const products =[{
 },
 {
     _id: "aaaaas",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -256,11 +275,12 @@ export const products =[{
 },
 {
     _id: "aaaaat",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -268,11 +288,12 @@ export const products =[{
 },
 {
     _id: "aaaaau",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -280,11 +301,12 @@ export const products =[{
 },
 {
     _id: "aaaaav",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Kids Wrist Watch", 
+    description: "A lightweight Kids wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Kids",
+    subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -292,11 +314,12 @@ export const products =[{
 },
 {
     _id: "aaaaaw",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -304,11 +327,12 @@ export const products =[{
 },
 {
     _id: "aaaaax",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -316,11 +340,12 @@ export const products =[{
 },
 {
     _id: "aaaaay",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Kids Wrist Watch", 
+    description: "A lightweight kids wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Kids",
+    subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -328,11 +353,12 @@ export const products =[{
 },
 {
     _id: "aaaaaz",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -340,11 +366,12 @@ export const products =[{
 },
 {
     _id: "aaaaa1",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -352,11 +379,12 @@ export const products =[{
 },
 {
     _id: "aaaaa2",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Kids Wrist Watch", 
+    description: "A lightweight kids wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Kids",
+    subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -364,11 +392,12 @@ export const products =[{
 },
 {
     _id: "aaaaa3",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -376,11 +405,12 @@ export const products =[{
 },
 {
     _id: "aaaaa4",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -388,11 +418,12 @@ export const products =[{
 },
 {
     _id: "aaaaa5",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Kids Wrist Watch", 
+    description: "A lightweight kids wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Kids",
+    subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -400,11 +431,12 @@ export const products =[{
 },
 {
     _id: "aaaaa6",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -412,11 +444,12 @@ export const products =[{
 },
 {
     _id: "aaaaa7",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -424,11 +457,12 @@ export const products =[{
 },
 {
     _id: "aaaaa8",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Kids Wrist Watch", 
+    description: "A lightweight kids wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Kids",
+    subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -436,11 +470,12 @@ export const products =[{
 },
 {
     _id: "aaaaa9",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Kids Wrist Watch", 
+    description: "A lightweight kids wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
-    category: "Men",
+    category: "Kids",
+    subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -448,11 +483,12 @@ export const products =[{
 },
 {
     _id: "aaaaa10",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
-    category: "Women",
+    category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -460,11 +496,12 @@ export const products =[{
 },
 {
     _id: "aaaaa11",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
-    category: "Kids",
+    category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -472,11 +509,12 @@ export const products =[{
 },
 {
     _id: "aaaaa12",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Kids Wrist Watch", 
+    description: "A lightweight kids wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
-    category: "Men",
+    category: "Kids",
+    subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -484,11 +522,12 @@ export const products =[{
 },
 {
     _id: "aaaaa13",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
-    category: "Women",
+    category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -496,11 +535,12 @@ export const products =[{
 },
 {
     _id: "aaaaa14",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
-    category: "Kids",
+    category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -508,11 +548,12 @@ export const products =[{
 },
 {
     _id: "aaaaa15",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -520,11 +561,12 @@ export const products =[{
 },
 {
     _id: "aaaaa16",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -532,11 +574,12 @@ export const products =[{
 },
 {
     _id: "aaaaa17",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Kids Wrist Watch", 
+    description: "A lightweight kids wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Kids",
+    subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -544,11 +587,12 @@ export const products =[{
 },
 {
     _id: "aaaaa18",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -556,11 +600,12 @@ export const products =[{
 },
 {
     _id: "aaaaa19",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -568,11 +613,12 @@ export const products =[{
 },
 {
     _id: "aaaaa20",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Kids Wrist Watch", 
+    description: "A lightweight kids wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Kids",
+    subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -580,11 +626,12 @@ export const products =[{
 },
 {
     _id: "aaaaa21",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -592,11 +639,12 @@ export const products =[{
 },
 {
     _id: "aaaaa22",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -604,11 +652,12 @@ export const products =[{
 },
 {
     _id: "aaaaa23",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Kids Wrist Watch", 
+    description: "A lightweight kids wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Kids",
+    subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -621,6 +670,7 @@ export const products =[{
     price: 500,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -628,11 +678,12 @@ export const products =[{
 },
 {
     _id: "aaaaa25",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -640,11 +691,12 @@ export const products =[{
 },
 {
     _id: "aaaaa26",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Kids Wrist Watch", 
+    description: "A lightweight kids wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Kids",
+    subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -652,11 +704,12 @@ export const products =[{
 },
 {
     _id: "aaaaa27",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -664,11 +717,12 @@ export const products =[{
 },
 {
     _id: "aaaaa28",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -676,11 +730,12 @@ export const products =[{
 },
 {
     _id: "aaaaa29",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Kids Wrist Watch", 
+    description: "A lightweight kids wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Kids",
+    subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -688,11 +743,12 @@ export const products =[{
 },
 {
     _id: "aaaaa30",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -700,11 +756,12 @@ export const products =[{
 },
 {
     _id: "aaaaa31",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -712,11 +769,12 @@ export const products =[{
 },
 {
     _id: "aaaaa32",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Kids Wrist Watch", 
+    description: "A lightweight kids wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Kids",
+    subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -724,11 +782,12 @@ export const products =[{
 },
 {
     _id: "aaaaa33",
-    name: "men Wrist Watch", 
+    name: "Men Wrist Watch", 
     description: "A lightweight men wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Men",
+    subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
@@ -736,11 +795,12 @@ export const products =[{
 },
 {
     _id: "aaaaa34",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
+    name: "Women Wrist Watch", 
+    description: "A lightweight women wrist watch",
     price: 500,
     image: [hero_img, hero_img], 
     category: "Women",
+    subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
     date: 15442556, 
     bestseller: true
