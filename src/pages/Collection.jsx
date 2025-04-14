@@ -12,6 +12,7 @@ const Collection = () => {
     const [filterProducts, setFilterProducts] = useState([])
     const [category, setCategory] = useState([])
     const [subCategory, setSubCatigory] = useState([])
+    const [sortType, setSortType] = useState('relevant')
 
     const toggleCategory = (e) => {
         if (category.includes(e.target.value)){
@@ -44,6 +45,24 @@ const Collection = () => {
         setFilterProducts(productsCopy)
     }
 
+    const sortProduct = () => {
+        let fpCopy = filterProducts.slice()
+
+        switch(sortType) {
+            case 'low-high':
+                setFilterProducts(fpCopy.sort((a,b)=>(a.price - b.price)))
+                break;
+
+            case 'high-low':
+                setFilterProducts(fpCopy.sort((a,b)=>(b.price - a.price)))    
+                break;
+
+            default:
+              applyFilter();
+              break;    
+        }
+    }
+
     
 
     useEffect(()=>{
@@ -53,6 +72,11 @@ const Collection = () => {
     useEffect(()=>{
         applyFilter()
     }, [category, subCategory])
+
+    useEffect(()=>{
+       sortProduct()
+
+    }, [sortType])
 
   return (
     <div className='flex flex-col sm:flex-row gap-1 sm:gap-10 pt-10 border-t'>
@@ -98,10 +122,10 @@ const Collection = () => {
             <div className='flex justify-between text-base sm:text-2xl mb-4'>
                 <Title text1={'ALL'} text2={'COLLECTIONS'}/>
                 {/* product sort */}
-                <select className='border-2 border-gray-300 text-sm px-2'>
+                <select onChange={(e)=>setSortType(e.target.value)} className='border-2 border-gray-300 text-sm px-2'>
                     <option value="relevant">Sort by: Relevant</option>
-                    <option value="relevant">Sort by: Low to High</option>
-                    <option value="relevant">Sort by: High to Low</option>
+                    <option value="low-high">Sort by: Low to High</option>
+                    <option value="high-low">Sort by: High to Low</option>
 
                 </select>
             </div>
