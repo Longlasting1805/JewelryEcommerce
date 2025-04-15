@@ -33,6 +33,7 @@ const Collection = () => {
     }
 
     const applyFilter = () => {
+        
         let productsCopy = products.slice();
 
         if (category.length > 0) {

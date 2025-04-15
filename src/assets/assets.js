@@ -9,6 +9,7 @@ import customer_support from './customer_support.jpg'
 import refund_policy from './refund_policy.jpg'
 import exchange_logo from './exchange_logo.png'
 import dropdown from './dropdown.png'
+import cancel_icon from './cancel_icon.jpg'
 
 
 export const assets = {
@@ -22,7 +23,8 @@ export const assets = {
     customer_support,
     refund_policy,
     exchange_logo,
-    dropdown
+    dropdown, 
+    cancel_icon
 
 }
 
