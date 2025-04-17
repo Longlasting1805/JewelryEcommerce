@@ -18,6 +18,8 @@ import bin from './bin.png'
 import flutterwave_Logo from './flutterwave_Logo.png'
 import stripe_Logo from './stripe_Logo.png'
 import about_us from './about_us.jpg'
+import contact_us from './contact_us.jpg'
+
 
 
 export const assets = {
@@ -40,7 +42,8 @@ export const assets = {
     bin,
     flutterwave_Logo,
     stripe_Logo,
-    about_us
+    about_us, 
+    contact_us
 
 }
 
