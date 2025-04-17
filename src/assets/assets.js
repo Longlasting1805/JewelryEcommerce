@@ -17,6 +17,7 @@ import diamond_pics from './diamond_pics.jpg'
 import bin from './bin.png'
 import flutterwave_Logo from './flutterwave_Logo.png'
 import stripe_Logo from './stripe_Logo.png'
+import about_us from './about_us.jpg'
 
 
 export const assets = {
@@ -38,7 +39,8 @@ export const assets = {
     diamond_pics,
     bin,
     flutterwave_Logo,
-    stripe_Logo
+    stripe_Logo,
+    about_us
 
 }
 
