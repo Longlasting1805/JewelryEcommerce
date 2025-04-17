@@ -15,6 +15,8 @@ import star_icon from './star_icon.png'
 import star_dull from './star_dull.jpg'
 import diamond_pics from './diamond_pics.jpg'
 import bin from './bin.png'
+import flutterwave_Logo from './flutterwave_Logo.png'
+import stripe_Logo from './stripe_Logo.png'
 
 
 export const assets = {
@@ -34,7 +36,9 @@ export const assets = {
     star_icon, 
     star_dull,
     diamond_pics,
-    bin
+    bin,
+    flutterwave_Logo,
+    stripe_Logo
 
 }
 
