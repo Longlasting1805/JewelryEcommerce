@@ -34,6 +34,20 @@ import lnq3 from './lnq3.jpg'
 import lnq4 from './lnq4.jpg'
 import lnq5 from './lnq5.jpg'
 import lnq6 from './lnq6.jpg'
+import findtime1 from './findtime1.jpg'
+import findtime2 from './findtime2.jpg'
+import findtime3 from './findtime3.jpg'
+import findtime4 from './findtime4.jpg'
+import findtime5 from './findtime5.jpg'
+import findtime6 from './findtime6.jpg'
+import findtime7 from './findtime7.jpg'
+import findtimeblue1 from './findtimeblue1.jpg'
+import findtimeblue2 from './findtimeblue2.jpg'
+import findtimeblue3 from './findtimeblue3.jpg'
+import findtimeblue4 from './findtimeblue4.jpg'
+import findtimeblue5 from './findtimeblue5.jpg'
+import findtimeblue7 from './findtimeblue7.jpg'
+
 
 
 
@@ -74,7 +88,19 @@ export const assets = {
     lnq4,
     lnq5,
     lnq6,
-    
+    findtime1,
+    findtime2,
+    findtime3,
+    findtime4,
+    findtime5,
+    findtime6,
+    findtime7,
+    findtimeblue1,
+    findtimeblue2,
+    findtimeblue3,
+    findtimeblue4,
+    findtimeblue5,
+    findtimeblue7,
 
 
 }
@@ -172,10 +198,10 @@ export const products =[{
 },
 {
     _id: "aaaaah",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 50,
-    image: [], 
+    name: "findtime Cool Watches for Men Construction Heavy Duty Punk Designer Unique Sports Wrist Watch with 5ATM Waterproof Dual Time Display Stopwatch", 
+    description: "• Fashion Designer Mens Watch --- Novel Polygonal shaped watch case design brings you avant-garde fashion sense. Punk rock face is suitable for all types of clothing. Wear this watch on the go, from business, leisure to indoor and outdoor activities or for daily use \n• Multifunction Workout Watches --- 1. Analog and digital dual dial support two different timezone 2. Alarm 3. LED Back Light(show time clear in the dark ) 4. Day/Date/Month Calendar 5. Stopwatch 6. 12/24H format option 7. Shock Resistant. Suitable for various occasions such as running, swimming, mountain climbing, cross-country, vacation, school, travel, party, etc \n• Water resistant up to 5 ATM --- Suitable for everyday use. Splash/rain resistant. Please don't press any buttons underwater, and in case of damaging waterproof ring,please keep it away from steam and hot water\n• Durable Comfortable for Daily Wear --- The watch with high-quality movement and provide precise time. ABS stainless steel body and highly transparent acrylic scratch resitance mirror. The watch band is made of soft silicone, super comfortable to wear \n• Your Sports Partner - Our rugged watch suaitable for running, marathon, walking, climbing, hiking and other outdoor exercies. If you or your friends love sports and adventure, this will be a great choice",
+    price: 16.49,
+    image: [findtime1, findtime2, findtime3, findtime4, findtime5, findtime6, findtime7], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
@@ -198,10 +224,10 @@ export const products =[{
 },
 {
     _id: "aaaaaj",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 5000,
-    image: [], 
+    name: "findtime Cool Watches for Men Construction Heavy Duty Punk Designer Unique Sports Wrist Watch with 5ATM Waterproof Dual Time Display Stopwatch", 
+    description: " • Fashion Designer Mens Watch --- Novel Polygonal shaped watch case design brings you avant-garde fashion sense. Punk rock face is suitable for all types of clothing. Wear this watch on the go, from business, leisure to indoor and outdoor activities or for daily use\n • Multifunction Workout Watches --- 1. Analog and digital dual dial support two different timezone 2. Alarm 3. LED Back Light(show time clear in the dark ) 4. Day/Date/Month Calendar 5. Stopwatch 6. 12/24H format option 7. Shock Resistant. Suitable for various occasions such as running, swimming, mountain climbing, cross-country, vacation, school, travel, party, etc\n • Water resistant up to 5 ATM --- Suitable for everyday use. Splash/rain resistant. Please don't press any buttons underwater, and in case of damaging waterproof ring,please keep it away from steam and hot water\n • Durable Comfortable for Daily Wear --- The watch with high-quality movement and provide precise time. ABS stainless steel body and highly transparent acrylic scratch resitance mirror. The watch band is made of soft silicone, super comfortable to wear\n • Your Sports Partner - Our rugged watch suaitable for running, marathon, walking, climbing, hiking and other outdoor exercies. If you or your friends love sports and adventure, this will be a great choice",
+    price: 32.99,
+    image: [findtimeblue1, findtimeblue2, findtimeblue3, findtimeblue4, findtimeblue5, findtimeblue7], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
