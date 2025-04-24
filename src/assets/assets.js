@@ -70,6 +70,18 @@ import ferragamo2 from './ferragamo2.jpg'
 import ferragamo3 from './ferragamo3.jpg'
 import ferragamo4 from './ferragamo4.jpg'
 import ferragamo5 from './ferragamo5.jpg'
+import aimes1 from './aimes1.jpg'
+import aimes2 from './aimes2.jpg'
+import aimes3 from './aimes3.jpg'
+import aimes4 from './aimes4.jpg'
+import aimes5 from './aimes5.jpg'
+import aimes6 from './aimes6.jpg'
+import casual1 from './casual1.jpg'
+import casual2 from './casual2.jpg'
+import casual3 from './casual3.jpg'
+import casual4 from './casual4.jpg'
+import casual5 from './casual5.jpg'
+import casual6 from './casual6.jpg'
 
 
 
@@ -146,7 +158,19 @@ export const assets = {
     ferragamo2,
     ferragamo3,
     ferragamo4,
-    ferragamo5
+    ferragamo5,
+    aimes1,
+    aimes2,
+    aimes3,
+    aimes4,
+    aimes5,
+    aimes6,
+    casual1,
+    casual2,
+    casual3,
+    casual4,
+    casual5,
+    casual6,
     
 
 
@@ -403,9 +427,9 @@ export const products =[{
 {
     _id: "aaaaat",
     name: "Salvatore Ferragamo Gold Collection Luxury Mens Watch Timepiece", 
-    description: "INTRODUCING THE 1898 SPORT COLLECTION Savatore Ferragamo Swiss Fashion Watch Made in Switzerland\n• FASHIONABLE 44mm CASE DIAMETER Featuring Guilloche Dial with Sporty and Streamlined Design Influences\n• WATER RESISTANT TO 100 METERS will withstand light splashes and brief immersion in water but not suitable for swimming, diving or prolonged water exposure.\n• Ferragamo Swiss Made Watch with 2 year warranty.\n• THE FERRAGAMO TIMEPIECE COLLECTION is perfect for gifting. Each watch comes with a branded gift box.",
+    description: "• INTRODUCING THE 1898 SPORT COLLECTION Savatore Ferragamo Swiss Fashion Watch Made in Switzerland\n• FASHIONABLE 44mm CASE DIAMETER Featuring Guilloche Dial with Sporty and Streamlined Design Influences\n• WATER RESISTANT TO 100 METERS will withstand light splashes and brief immersion in water but not suitable for swimming, diving or prolonged water exposure.\n• Ferragamo Swiss Made Watch with 2 year warranty.\n• THE FERRAGAMO TIMEPIECE COLLECTION is perfect for gifting. Each watch comes with a branded gift box.",
     price: 477.99,
-    image: [ferragamo5, ferragamo2, ferragamo3, ferragamo4], 
+    image: [ferragamo3, ferragamo2, ferragamo5, ferragamo4], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
@@ -441,10 +465,10 @@ export const products =[{
 },
 {
     _id: "aaaaaw",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 500,
-    image: [], 
+    name: "AIMES Mens Watches for Men Casual Chronograph Waterproof Sport Military Watch Analog Quartz Movement Stylish Luxury Dress Wrist Watch Elegant Gift Watch for Men", 
+    description: "•Elegant design: AIMES offers men a range of classic designer watches. This watch comes with 100% thick glass and a polished black case. The round green dial of this watch has a multifunctional dial, a chronograph and a day indicator for a stylish look\n• WATER AND SCRATCH RESISTANT: The watch is 30m water resistant and can withstand sweat, accidental rain or splashing water. This watch is scratch-resistant and feels pliable. The hard-wearing leather bracelet is fully flexible\n• PREMIUM QUALITY: The analog clock with quartz movement offers a classy look. The housing is made of high quality stainless steel. The dial has a built-in date calendar function that shows the date. The strap is soft and comfortable to wear.\n• A PERFECT GIFT: This versatile watch is suitable for any occasion, whether formal or casual. Wear this watch for on the go, for business, leisure, indoor and outdoor activities or for everyday use. The Benyar wristwatch is a perfect gift for you and your loved ones.\n• CUSTOMER SATISFACTION: AIMES watch men provides an 30-day return policy and a 1-year after sales service. AIMES is committed to offering a range of classic designer wrist watches for men and high standards of customer service. If you have any questions about our analog watch men, please contact us first and we will provide you with a satisfactory solution within 24 hours.",
+    price: 34.99,
+    image: [aimes1, aimes2, aimes3, aimes4, aimes4, aimes5, aimes6], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
@@ -480,10 +504,10 @@ export const products =[{
 },
 {
     _id: "aaaaaz",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 500,
-    image: [], 
+    name: "AIMES Mens Watches for Men Casual Chronograph Waterproof Sport Military Watch Analog Quartz Movement Stylish Luxury Dress Wrist Watch Elegant Gift Watch for Men", 
+    description: "• Elegant design: AIMES offers men a range of classic designer watches. This watch comes with 100% thick glass and a polished black case. The round green dial of this watch has a multifunctional dial, a chronograph and a day indicator for a stylish look\n• WATER AND SCRATCH RESISTANT: The watch is 30m water resistant and can withstand sweat, accidental rain or splashing water. This watch is scratch-resistant and feels pliable. The hard-wearing leather bracelet is fully flexible\n• PREMIUM QUALITY: The analog clock with quartz movement offers a classy look. The housing is made of high quality stainless steel. The dial has a built-in date calendar function that shows the date. The strap is soft and comfortable to wear.\n• A PERFECT GIFT: This elegant looking luxury wristwatch can be worn for a variety of occasions, whether formal, business or casual, or from indoor, outdoor events or everyday use.The AIMES wristwatch is a perfect gift for you and your loved ones.\n• CUSTOMER SATISFACTION: AIMES watch men provides an 30-day return policy and a 1-year after sales service. AIMES is committed to offering a range of classic designer wrist watches for men and high standards of customer service. If you have any questions about our analog watch men, please contact us first and we will provide you with a satisfactory solution within 24 hours.",
+    price: 38.99,
+    image: [casual1, casual2, casual3, casual4, casual5, casual6], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
