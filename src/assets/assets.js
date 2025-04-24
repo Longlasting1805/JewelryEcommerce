@@ -146,19 +146,11 @@ import ninewest1 from './ninewest1.jpg'
 import ninewest2 from './ninewest2.jpg'
 import ninewest3 from './ninewest3.jpg'
 import ninewest4 from './ninewest4.jpg'
-
-
-
-
-
-
-
-
-
-
-
-
-
+import deville1 from './deville1.webp'
+import deville2 from './deville2.webp'
+import deville3 from './deville3.webp'
+import deville4 from './deville4.webp'
+import deville5 from './deville5.webp'
 
 
 export const assets = {
@@ -309,7 +301,12 @@ export const assets = {
     ninewest1,
     ninewest2,
     ninewest3,
-    ninewest4
+    ninewest4,
+    deville1,
+    deville2,
+    deville3,
+    deville4,
+    deville5,
 
 
 
@@ -395,10 +392,10 @@ export const products =[{
 },
 {
     _id: "aaaaag",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 11500,
-    image: [], 
+    name: "Omega. DeVille Prestige 424.50.24.60.05.002 Womens Watch in 18kt Rose Gold", 
+    description: " • Retail price 17200 USD. Brand new and unworn. All components are factory original. Photos of actual watch. Omega Calibre 1376, 5 Jewels\n• Note the watch comes with open papers. Comes with the original box, papers, and instructions.",
+    price: 9650,
+    image: [deville1, deville2, deville3, deville4, deville5], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
