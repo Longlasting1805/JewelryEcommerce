@@ -47,6 +47,29 @@ import findtimeblue3 from './findtimeblue3.jpg'
 import findtimeblue4 from './findtimeblue4.jpg'
 import findtimeblue5 from './findtimeblue5.jpg'
 import findtimeblue7 from './findtimeblue7.jpg'
+import versace1 from './versace1.jpg'
+import versace2 from './versace2.jpg'
+import versace3 from './versace3.jpg'
+import versace4 from './versace4.jpg'
+import versace5 from './versace5.jpg'
+import versace6 from './versace6.jpg'
+import vurban1 from './vurban1.jpg'
+import vurban2 from './vurban2.jpg'
+import vurban3 from './vurban3.jpg'
+import vurban4 from './vurban4.jpg'
+import vtimepiece1 from './vtimepiece1.jpg'
+import vtimepiece2 from './vtimepiece2.jpg'
+import vtimepiece3 from './vtimepiece3.jpg'
+import vtimepiece4 from './vtimepiece4.jpg'
+import salvatore1 from './salvatore1.jpg'
+import salvatore2 from './salvatore2.jpg'
+import salvatore3 from './salvatore3.jpg'
+import salvatore4 from './salvatore4.jpg'
+import ferragamo1 from './ferragamo1.jpg'
+import ferragamo2 from './ferragamo2.jpg'
+import ferragamo3 from './ferragamo3.jpg'
+import ferragamo4 from './ferragamo4.jpg'
+import ferragamo5 from './ferragamo5.jpg'
 
 
 
@@ -101,6 +124,31 @@ export const assets = {
     findtimeblue4,
     findtimeblue5,
     findtimeblue7,
+    versace1,
+    versace2,
+    versace3,
+    versace4,
+    versace5,
+    versace6,
+    vurban1,
+    vurban2,
+    vurban3,
+    vurban4,
+    vtimepiece1,
+    vtimepiece2,
+    vtimepiece3,
+    vtimepiece4,
+    salvatore1,
+    salvatore2,
+    salvatore3,
+    salvatore4,
+    ferragamo1,
+    ferragamo2,
+    ferragamo3,
+    ferragamo4,
+    ferragamo5
+    
+
 
 
 }
@@ -250,10 +298,10 @@ export const products =[{
 },
 {
     _id: "aaaaal",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 500,
-    image: [], 
+    name: "• Versace Men's 'Dylos' Automatic Stainless Steel Casual Watch, Color:Two Tone (Model: VAG030016)", 
+    description: "• 42 mm Two tone case; Blue dial with mesh pattern\n• Two tone bracelet with Greek inserts\n• Automatic Movement\n• Case Diameter: 42mm\n• Water Resistant To 50m (165ft: in General, Suitable for Short Periods Of Recreational Swimming, but not Diving or Snorkeling",
+    price: 998,
+    image: [versace1, versace2, versace3, versace4, versace5, versace6], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
@@ -276,10 +324,10 @@ export const products =[{
 },
 {
     _id: "aaaaan",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 500,
-    image: [], 
+    name: "Versace Urban Mystique Collection Luxury Mens Watch Timepiece", 
+    description: "• INTRODUCING THE URBAN MYSTIQUE LUXURY WATCH COLLECTION BY VERSACE. Swiss Fashion Watch made in Switzerland\n• Fashionable, Bold, and Smart 43mm CASE DIAMETER featuring Sunray Dial with Chronograph Date Quartz Movement featuring Date Window\n• WATER RESISTANT TO 50 METERS will withstand light splashes and brief immersion in water but not suitable for swimming, diving or prolonged water exposure.\n• Versace Swiss Made Watch with 2 year warranty.\n• THE VERSACE TIMEPIECE COLLECTION is perfect for gifting and giving. Each watch comes in a luxe gold-hued branded gift box.",
+    price: 600,
+    image: [vurban1, vurban2, vurban3, vurban4], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
@@ -302,10 +350,10 @@ export const products =[{
 },
 {
     _id: "aaaaap",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 500,
-    image: [], 
+    name: "Versace Urban Mystique Collection Luxury Mens Watch Timepiece", 
+    description: "• INTRODUCING THE URBAN MYSTIQUE LUXURY WATCH COLLECTION BY VERSACE. Swiss Fashion Watch made in Switzerland\n• Fashionable, Bold, and Smart 43mm CASE DIAMETER featuring Sunray Dial with Chronograph Date Quartz Movement featuring Date Window\n• WATER RESISTANT TO 50 METERS will withstand light splashes and brief immersion in water but not suitable for swimming, diving or prolonged water exposure.\n• Versace Swiss Made Watch with 2 year warranty.\n• THE VERSACE TIMEPIECE COLLECTION is perfect for gifting and giving. Each watch comes in a luxe gold-hued branded gift box.",
+    price: 1295,
+    image: [vtimepiece1, vtimepiece2, vtimepiece3, vtimepiece4], 
     category: "Men",
     subCategory: "Men Watch",
     sizes: ["M", "L", "XL"],
@@ -328,10 +376,10 @@ export const products =[{
 },
 {
     _id: "aaaaar",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 500,
-    image: [], 
+    name: "Salvatore Ferragamo Collection Luxury Mens Watch Timepiece", 
+    description: "• INTRODUCING THE 1898 SPORT COLLECTION Savatore Ferragamo Swiss Fashion Watch Made in Switzerland\n• FASHIONABLE 44mm CASE DIAMETER Featuring Guilloche Dial with Sporty and Streamlined Design Influences\n• WATER RESISTANT TO 100 METERS will withstand light splashes and brief immersion in water but not suitable for swimming, diving or prolonged water exposure.\n• Ferragamo Swiss Made Watch with 2 year warranty.\n• THE FERRAGAMO TIMEPIECE COLLECTION is perfect for gifting. Each watch comes with a branded gift box.",
+    price: 433.99,
+    image: [salvatore1, salvatore2, salvatore3, salvatore4], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
@@ -354,10 +402,10 @@ export const products =[{
 },
 {
     _id: "aaaaat",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 500,
-    image: [], 
+    name: "Salvatore Ferragamo Gold Collection Luxury Mens Watch Timepiece", 
+    description: "INTRODUCING THE 1898 SPORT COLLECTION Savatore Ferragamo Swiss Fashion Watch Made in Switzerland\n• FASHIONABLE 44mm CASE DIAMETER Featuring Guilloche Dial with Sporty and Streamlined Design Influences\n• WATER RESISTANT TO 100 METERS will withstand light splashes and brief immersion in water but not suitable for swimming, diving or prolonged water exposure.\n• Ferragamo Swiss Made Watch with 2 year warranty.\n• THE FERRAGAMO TIMEPIECE COLLECTION is perfect for gifting. Each watch comes with a branded gift box.",
+    price: 477.99,
+    image: [ferragamo5, ferragamo2, ferragamo3, ferragamo4], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
