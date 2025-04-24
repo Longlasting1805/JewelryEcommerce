@@ -82,6 +82,81 @@ import casual3 from './casual3.jpg'
 import casual4 from './casual4.jpg'
 import casual5 from './casual5.jpg'
 import casual6 from './casual6.jpg'
+import atlas1 from './atlas1.webp'
+import atlas2 from './atlas2.webp'
+import atlas3 from './atlas3.webp'
+import atlas4 from './atlas4.webp'
+import hublot1 from './hublot1.webp'
+import hublot2 from './hublot2.webp'
+import hublot3 from './hublot3.webp'
+import hublot4 from './hublot4.webp'
+import hublot5 from './hublot5.webp'
+import seammaster1 from './seammaster1.webp'
+import seammaster2 from './seammaster2.webp'
+import seammaster3 from './seammaster3.webp'
+import seammaster4 from './seammaster4.webp'
+import seammaster5 from './seammaster5.webp'
+import omega1 from './omega1.webp'
+import omega2 from './omega2.webp'
+import omega3 from './omega3.webp'
+import omega4 from './omega4.webp'
+import jacquet1 from './jacquet1.webp'
+import jacquet2 from './jacquet2.webp'
+import jacquet3 from './jacquet3.webp'
+import jacquet4 from './jacquet4.webp'
+import jacquet5 from './jacquet5.webp'
+import wimbledon1 from './wimbledon1.webp'
+import wimbledon2 from './wimbledon2.webp'
+import wimbledon3 from './wimbledon3.webp'
+import wimbledon4 from './wimbledon4.webp'
+import wimbledon5 from './wimbledon5.webp'
+import corum1 from './corum1.webp'
+import corum2 from './corum2.webp'
+import corum3 from './corum3.webp'
+import corum4 from './corum4.webp'
+import braquet1 from './braquet1.webp'
+import braquet2 from './braquet2.webp'
+import braquet3 from './braquet3.webp'
+import braquet4 from './braquet4.webp'
+import braquet5 from './braquet5.webp'
+import chanel1 from './chanel1.webp'
+import chanel2 from './chanel2.webp'
+import chanel3 from './chanel3.webp'
+import chanel4 from './chanel4.webp'
+import chanel5 from './chanel5.webp'
+import burei1 from './burei1.jpg'
+import burei2 from './burei2.jpg'
+import burei3 from './burei3.jpg'
+import burei4 from './burei4.jpg'
+import burei5 from './burei5.jpg'
+import burei6 from './burei6.jpg'
+import burei7 from './burei7.jpg'
+import redburei1 from './redburei1.jpg'
+import redburei2 from './redburei2.jpg'
+import redburei3 from './redburei3.jpg'
+import redburei4 from './redburei4.jpg'
+import redburei5 from './redburei5.jpg'
+import redburei6 from './redburei6.jpg'
+import redburei7 from './redburei7.jpg'
+import swiss1 from './swiss1.jpg'
+import swiss2 from './swiss2.jpg'
+import swiss3 from './swiss3.jpg'
+import swiss4 from './swiss4.jpg'
+import ninewest1 from './ninewest1.jpg'
+import ninewest2 from './ninewest2.jpg'
+import ninewest3 from './ninewest3.jpg'
+import ninewest4 from './ninewest4.jpg'
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -171,7 +246,70 @@ export const assets = {
     casual4,
     casual5,
     casual6,
-    
+    atlas1,
+    atlas2,
+    atlas3,
+    atlas4, 
+    hublot1,
+    hublot2,
+    hublot3,
+    hublot4,
+    hublot5,
+    seammaster1,
+    seammaster2,
+    seammaster3,
+    seammaster4,
+    seammaster5,
+    omega1,
+    omega2,
+    omega3,
+    omega4,
+    jacquet1,
+    jacquet2,
+    jacquet3,
+    jacquet4,
+    jacquet5,
+    wimbledon1,
+    wimbledon2,
+    wimbledon3,
+    wimbledon4,
+    wimbledon5,
+    corum1,
+    corum2,
+    corum3,
+    corum4,
+    braquet1,
+    braquet2,
+    braquet3,
+    braquet4,
+    braquet5,
+    chanel1,
+    chanel2,
+    chanel3,
+    chanel4,
+    chanel5,
+    burei1,
+    burei2,
+    burei3,
+    burei4,
+    burei5,
+    burei6,
+    burei7,
+    redburei1,
+    redburei2,
+    redburei3,
+    redburei4,
+    redburei5,
+    redburei6,
+    redburei7,
+    swiss1,
+    swiss2,
+    swiss3,
+    swiss4,
+    ninewest1,
+    ninewest2,
+    ninewest3,
+    ninewest4
 
 
 
@@ -179,10 +317,10 @@ export const assets = {
 
 export const products =[{
     _id: "aaaaaa",
-    name: "Women Wrist Watch", 
-    description: "A lightweight wrist watch",
-    price: 1000,
-    image: [], 
+    name: "Corum. 9823 47450.56 Womens Watch in 18kt Yellow Gold", 
+    description: "• In excellent condition and recently serviced. Generic Strap. Photos of actual watch.",
+    price: 2500,
+    image: [corum1, corum2, corum3, corum4], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["S", "M", "L"],
@@ -231,10 +369,10 @@ export const products =[{
 },
 {
     _id: "aaaaae",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 200,
-    image: [], 
+    name: "Nine West Women's Floral Dial Bracelet Watch", 
+    description: "• Domed mineral crystal lens; light champagne dial with gold-tone hands and crystal accented markers\n• Gold-tone adjustable link bracelet; fold over clasp with double push-button safety\n• Inner band circumference: 7 inches\n• Japanese quartz movement\n• Case diameter: 36 millimeters\n• Splash-resistant",
+    price: 17.42,
+    image: [ninewest1, ninewest2, ninewest3, ninewest4], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
@@ -543,10 +681,10 @@ export const products =[{
 },
 {
     _id: "aaaaa3",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 500,
-    image: [], 
+    name: "Tiffany & Co. Atlas Z1902.10.40E10A Unisex Watch in 18kt White Gold", 
+    description: "• Above Tiffany's New York flagship store is the Atlas clock, which is so renowned for its preciseness that New Yorkers would set their watch to the same time for accuracy.\n• The clock inspired Tiffany's Atlas collection, which features designs engraved with roman numerals to echo the famous clock.\n• Retail price 24350 USD. In excellent condition and recently serviced. Generic Strap. Photos of actual watch.",
+    price: 8500,
+    image: [atlas1, atlas2, atlas3, atlas4], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
@@ -582,10 +720,10 @@ export const products =[{
 },
 {
     _id: "aaaaa6",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 500,
-    image: [], 
+    name: "Hublot.  Big Bang One Click 465.JL.4802.RT.1204 Unisex Watch", 
+    description: "• Retail price 85000 USD. Enter the room with a bang. Described as Hublot’s ‘flagship model’, the Big Bang watch is a top of the line timepiece. Designed to be both technical and aesthetically pleasing, it is a watch with serious impact.\n• In excellent condition and recently serviced. All components are factory original. Photos of actual watch. Watch number 5974\n• Hublot Calibre HUB1710. Base Zenith Elite 670, 27 Jewels. Comes with the original box and papers.",
+    price: 46400,
+    image: [hublot1, hublot2, hublot3, hublot4, hublot5], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
@@ -634,10 +772,10 @@ export const products =[{
 },
 {
     _id: "aaaaa10",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 500,
-    image: [], 
+    name: "Omega. Seamaster Aqua Terra 220.20.34.20.53.001 Unisex Watch in 18kt Stainless St", 
+    description: "• Since 1948, the Omega Seamaster has been a leading watch style, making it the longest-running product line still sold by the brand. Inspired by the wristwatches worn by the British Royal Navy, it was designed to be waterproof and highly resistant to the natural elements. The iconic design gained further exposure when it become the watch of choice worn by the James Bond character in every movie since 1995.\n• Retail price 13200 USD. In excellent condition and recently serviced. All components are factory original. Photos of actual watch. Omega Calibre 8800. 35 Jewels. Comes with the original box, papers, and instructions.",
+    price: 7200,
+    image: [seammaster1, seammaster2, seammaster3, seammaster4, seammaster5], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
@@ -673,10 +811,10 @@ export const products =[{
 },
 {
     _id: "aaaaa13",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 500,
-    image: [], 
+    name: "Omega. Speedmaster 125 178.0002 Mens Watch in Stainless Steel", 
+    description: "• With a name inspired by the Speedmaster style from Omega that journeyed as far as the moon, this watch looks just as good on Earth as it did on Apollo 11 astronauts. The Speedmaster was first introduced in 1957.\n• In excellent condition and recently serviced. All components are factory original. Photos of actual watch. Omega Calibre 1041, Base Lemania 1340, 22 Jewels, Movt #35596759.",
+    price: 3950,
+    image: [omega1, omega2, omega3, omega4], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
@@ -699,10 +837,10 @@ export const products =[{
 },
 {
     _id: "aaaaa15",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 500,
-    image: [], 
+    name: "Jaquet Droz. Jacquet Droz Grande Seconde Quantieme J007020350 Mens Watch in Stainless Steel", 
+    description: "• Retail price 9500 USD. In excellent condition and recently serviced. All components are factory original. Photos of actual watch. Jaquet Droz Calibre 2660Q2.51, 30 Jewels Mvmt # 000455. Comes with the original box and instructions.",
+    price: 5950,
+    image: [jacquet1, jacquet2, jacquet3, jacquet4, jacquet5], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
@@ -738,10 +876,10 @@ export const products =[{
 },
 {
     _id: "aaaaa18",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 500,
-    image: [], 
+    name: "Rolex. 126331 Datejust 41 Wimbledon Mens Watch in Stainless Steel and Rose Gold", 
+    description: "• Dating back to 1945, Rolex's Datejust timepiece was the watchmaker's first automatic-winding design to include a date window. The creation was introduced as a celebration of the company's 40th anniversary.\n• Brand new and unworn. All components are factory original. Photos of actual watch. Rolex Calibre 3235, 31 Jewels. Comes with the original box, papers, and instructions.\n• Comes with Manufacturer's Warranty which expires 10-23-2028",
+    price: 18500,
+    image: [wimbledon1, wimbledon2, wimbledon3, wimbledon4, wimbledon5], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
@@ -777,10 +915,10 @@ export const products =[{
 },
 {
     _id: "aaaaa21",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 100,
-    image: [], 
+    name: "Breguet. Classique Power Reserve 7137BB/11/9V9 Mens Watch in White Gold", 
+    description: "• The Breguet Classique Power Reserve blends timeless elegance with precision. Crafted from white gold, it features a hand-engraved guilloché, blue Breguet hands, an alligator strap, and a power reserve indicator. This masterpiece exemplifies Breguet’s heritage of fine watchmaking, offering sophistication and technical excellence for the discerning collector.\n• Retail price 38100 USD. In excellent condition and recently serviced. All components are factory original. Photos of actual watch. Breguet Calibre 502.3 DR1, 37 Jewels. Comes with the original box, papers, and instructions.",
+    price: 23200,
+    image: [braquet1, braquet2, braquet3, braquet4, braquet5], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
@@ -816,10 +954,10 @@ export const products =[{
 },
 {
     _id: "aaaaa24",
-    name: "men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 5500,
-    image: [], 
+    name: "Chanel. J-12 Cybernetic H7988 Unisex Watch in Ceramic", 
+    description: "• Retail price 14200 USD. In Excellent condition. All components are factory original. Photos of actual watch. Chanel Calibre 12.1, 27 Jewels. Comes with the original box, papers, and instructions.",
+    price: 9000,
+    image: [chanel1, chanel2, chanel3, chanel4, chanel5], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
@@ -855,10 +993,10 @@ export const products =[{
 },
 {
     _id: "aaaaa27",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 500,
-    image: [], 
+    name: "BUREI Men Watches Fashion Business Analog Stainless Steel Quartz Waterproof Watches for Men", 
+    description: "• ⌚Movement: Japanese quartz movement, stable performance, accurate timekeeping, the wearer does not need to worry about time deviation, easy to control every important moment.\n• ⌚Material: Mineral mirror, scratch-resistant and wear-resistant; 316L electroplated brushed stainless steel bracelet and polished case, comfortable and breathable texture, showing temperament,suitable for all occasions.\n• ⌚Size:Case diameter 44mm (1.73in); case thickness 9.5mm (0.37in); bracelet width 22mm (0.87in); bracelet length 120mm-180mm (4.72in-7.08in)\n• ⌚3ATM waterproof (98 feet):meets most daily water resistance requirements. But it is recommended not to wear the watch for a long time for swimming or diving.\n• ⌚Best gift:Classic minimalist design, versatile with a variety of clothing styles, whether business formal dress or casual dress, can highlight the wearer's introverted taste and elegant temperament, is a great gift for men's choice.\n• ☎After-sales service: Each product comes with 30 days refund and 2 years after-sales service. If you have any questions about the product, please contact us immediately and we will give you a satisfactory solution.",
+    price: 32.99,
+    image: [burei1, burei2, burei3, burei4, burei5, burei6, burei7], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
@@ -894,10 +1032,10 @@ export const products =[{
 },
 {
     _id: "aaaaa30",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 5200,
-    image: [], 
+    name: "BUREI Men Watches Fashion Business Analog Stainless Steel Quartz Waterproof Watches for Men", 
+    description: "• ⌚Movement: Japanese quartz movement, stable performance, accurate timekeeping, the wearer does not need to worry about time deviation, easy to control every important moment.\n• ⌚Material: Mineral mirror, scratch-resistant and wear-resistant; 316L electroplated brushed stainless steel bracelet and polished case, comfortable and breathable texture, showing temperament,suitable for all occasions.\n• ⌚Size:Case diameter 44mm (1.73in); case thickness 9.5mm (0.37in); bracelet width 22mm (0.87in); bracelet length 120mm-180mm (4.72in-7.08in)\n• ⌚3ATM waterproof (98 feet):meets most daily water resistance requirements. But it is recommended not to wear the watch for a long time for swimming or diving.\n• ⌚Best gift:Classic minimalist design, versatile with a variety of clothing styles, whether business formal dress or casual dress, can highlight the wearer's introverted taste and elegant temperament, is a great gift for men's choice.\n• ☎After-sales service: Each product comes with 30 days refund and 2 years after-sales service. If you have any questions about the product, please contact us immediately and we will give you a satisfactory solution.",
+    price: 32.99,
+    image: [redburei1, redburei2, redburei3, redburei4, redburei5, redburei6, redburei7], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
@@ -933,10 +1071,10 @@ export const products =[{
 },
 {
     _id: "aaaaa33",
-    name: "Men Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 200,
-    image: [], 
+    name: "LsvtrUS. Men's Sport Style Swiss Military Army Pilot Fabric Strap Watch", 
+    description: "• STYLISH - Perfect size for both men and women. Case Diameter: 1.4(3.7cm); Thickness: 0.35(0.9cm); Watch Strap Length: 9.4(24cm); Band Width: 0.9(2.2cm); Weight: about 40g; The trendy wrist watch really hits the spot and makes you charming in all occasions.\n• FUNCTION - Japan original quartz movement with date at the 3 o'clock postion, Scratch-resistant mineral glass.\n• STRAP - Durable Nylon-fiber woven strap with pin buckle with 6 holds, easy to adjust strap size.\n• 12/24HR TIME - 12/24-Hour military analog time with date window makes this watch very easy to read.\n• WATER RESISTANT - Hand Wash, Rain Day and Sweating. Keep dry for longer use.",
+    price: 7.99,
+    image: [swiss1, swiss2, swiss3, swiss4], 
     category: "Men",
     subCategory: "Men watch",
     sizes: ["M", "L", "XL"],
