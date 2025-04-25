@@ -162,6 +162,18 @@ import harry2 from './harry2.webp'
 import harry3 from './harry3.webp'
 import harry4 from './harry4.webp'
 import harry5 from './harry5.webp'
+import klein1 from './klein1.jpg'
+import klein2 from './klein2.jpg'
+import klein3 from './klein3.jpg'
+import klein4 from './klein4.jpg'
+import klein5 from './klein5.jpg'
+import klein6 from './klein6.jpg'
+import chopard1 from './chopard1.webp'
+import chopard2 from './chopard2.webp'
+import chopard3 from './chopard3.webp'
+import chopard4 from './chopard4.webp'
+import chopard5 from './chopard5.webp'
+
 
 
 export const assets = {
@@ -328,7 +340,18 @@ export const assets = {
     harry2,
     harry3,
     harry4,
-    harry5
+    harry5,
+    klein1,
+    klein2,
+    klein3,
+    klein4,
+    klein5,
+    klein6,
+    chopard1,
+    chopard2,
+    chopard3,
+    chopard4,
+    chopard5,
 
 
 
@@ -479,7 +502,7 @@ export const products =[{
 },
 {
     _id: "aaaaal",
-    name: "• Versace Men's 'Dylos' Automatic Stainless Steel Casual Watch, Color:Two Tone (Model: VAG030016)", 
+    name: "Versace Men's 'Dylos' Automatic Stainless Steel Casual Watch, Color:Two Tone (Model: VAG030016)", 
     description: "• 42 mm Two tone case; Blue dial with mesh pattern\n• Two tone bracelet with Greek inserts\n• Automatic Movement\n• Case Diameter: 42mm\n• Water Resistant To 50m (165ft: in General, Suitable for Short Periods Of Recreational Swimming, but not Diving or Snorkeling",
     price: 998,
     image: [versace1, versace2, versace3, versace4, versace5, versace6], 
@@ -492,10 +515,10 @@ export const products =[{
 },
 {
     _id: "aaaaam",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 500,
-    image: [], 
+    name: "Anne Klein Women's Genuine Diamond Dial Bangle Watch", 
+    description: "• Mineral crystal lens; blush pink mother-of-pearl dial with genuine diamond at 12; rose gold-tone hand and markers\n• Blush pink enamel filled rose gold-tone bangle with adjustable end links; jewelry clasp and extender\n• Japanese-quartz Movement\n• Case Diameter: 34mm\n• Water Resistant To 99 Feet",
+    price: 50.03,
+    image: [klein1, klein2, klein3, klein4, klein5, klein6], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
@@ -518,10 +541,10 @@ export const products =[{
 },
 {
     _id: "aaaaao",
-    name: "Women Wrist Watch", 
-    description: "A lightweight men wrist watch",
-    price: 500,
-    image: [], 
+    name: "Chopard. BRAND NEW Chopard Classic 119392-5001 Womens Watch in 18kt Rose Gold", 
+    description: "• Retail price 17500 USD. Unworn and in excellent Condition. All components are factory original. Photos of actual watch.",
+    price: 10500,
+    image: [chopard1, chopard2, chopard3, chopard4, chopard5], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
