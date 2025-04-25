@@ -151,6 +151,17 @@ import deville2 from './deville2.webp'
 import deville3 from './deville3.webp'
 import deville4 from './deville4.webp'
 import deville5 from './deville5.webp'
+import anne1 from './anne1.jpg'
+import anne2 from './anne2.jpg'
+import anne3 from './anne3.jpg'
+import anne4 from './anne4.jpg'
+import anne5 from './anne5.jpg'
+import anne6 from './anne6.jpg'
+import harry1 from './harry1.webp'
+import harry2 from './harry2.webp'
+import harry3 from './harry3.webp'
+import harry4 from './harry4.webp'
+import harry5 from './harry5.webp'
 
 
 export const assets = {
@@ -307,6 +318,17 @@ export const assets = {
     deville3,
     deville4,
     deville5,
+    anne1,
+    anne2,
+    anne3,
+    anne4,
+    anne5,
+    anne6,
+    harry1,
+    harry2,
+    harry3,
+    harry4,
+    harry5
 
 
 
@@ -418,10 +440,10 @@ export const products =[{
 },
 {
     _id: "aaaaai",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 4500,
-    image: [], 
+    name: "Anne Klein Women's Genuine Diamond Dial Bangle Watch", 
+    description: "• Mineral crystal lens; glossy black dial with genuine diamond at 12; gold-tone hands and markers\n• Black enamel filled gold-tone bangle with adjustable end links; jewelry clasp and extender link\n• Inner band circumference: 6.75 inches\n• Japanese quartz movement\n• Case diameter: 28 millimeters\n• Water resistant to 30 meters (99 feet): In general, withstands splashes or brief immersion in water, but not suitable for swimming or bathing",
+    price: 19.33,
+    image: [anne1, anne2, anne3, anne4, anne5, anne5], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
@@ -432,7 +454,7 @@ export const products =[{
 {
     _id: "aaaaaj",
     name: "findtime Cool Watches for Men Construction Heavy Duty Punk Designer Unique Sports Wrist Watch with 5ATM Waterproof Dual Time Display Stopwatch", 
-    description: " • Fashion Designer Mens Watch --- Novel Polygonal shaped watch case design brings you avant-garde fashion sense. Punk rock face is suitable for all types of clothing. Wear this watch on the go, from business, leisure to indoor and outdoor activities or for daily use\n • Multifunction Workout Watches --- 1. Analog and digital dual dial support two different timezone 2. Alarm 3. LED Back Light(show time clear in the dark ) 4. Day/Date/Month Calendar 5. Stopwatch 6. 12/24H format option 7. Shock Resistant. Suitable for various occasions such as running, swimming, mountain climbing, cross-country, vacation, school, travel, party, etc\n • Water resistant up to 5 ATM --- Suitable for everyday use. Splash/rain resistant. Please don't press any buttons underwater, and in case of damaging waterproof ring,please keep it away from steam and hot water\n • Durable Comfortable for Daily Wear --- The watch with high-quality movement and provide precise time. ABS stainless steel body and highly transparent acrylic scratch resitance mirror. The watch band is made of soft silicone, super comfortable to wear\n • Your Sports Partner - Our rugged watch suaitable for running, marathon, walking, climbing, hiking and other outdoor exercies. If you or your friends love sports and adventure, this will be a great choice",
+    description: "• Fashion Designer Mens Watch --- Novel Polygonal shaped watch case design brings you avant-garde fashion sense. Punk rock face is suitable for all types of clothing. Wear this watch on the go, from business, leisure to indoor and outdoor activities or for daily use\n • Multifunction Workout Watches --- 1. Analog and digital dual dial support two different timezone 2. Alarm 3. LED Back Light(show time clear in the dark ) 4. Day/Date/Month Calendar 5. Stopwatch 6. 12/24H format option 7. Shock Resistant. Suitable for various occasions such as running, swimming, mountain climbing, cross-country, vacation, school, travel, party, etc\n • Water resistant up to 5 ATM --- Suitable for everyday use. Splash/rain resistant. Please don't press any buttons underwater, and in case of damaging waterproof ring,please keep it away from steam and hot water\n • Durable Comfortable for Daily Wear --- The watch with high-quality movement and provide precise time. ABS stainless steel body and highly transparent acrylic scratch resitance mirror. The watch band is made of soft silicone, super comfortable to wear\n • Your Sports Partner - Our rugged watch suaitable for running, marathon, walking, climbing, hiking and other outdoor exercies. If you or your friends love sports and adventure, this will be a great choice",
     price: 32.99,
     image: [findtimeblue1, findtimeblue2, findtimeblue3, findtimeblue4, findtimeblue5, findtimeblue7], 
     category: "Men",
@@ -444,10 +466,10 @@ export const products =[{
 },
 {
     _id: "aaaaak",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 500,
-    image: [], 
+    name: "Harry Winston. Premier Chronograph 200UCQ32W Womens Watch in 18kt White Gold", 
+    description: "• In excellent condition and recently serviced. All components are factory original. Photos of actual watch. Note watch comes with Harry Winston service papers.",
+    price: 10000,
+    image: [harry1, harry2, harry3, harry4, harry5], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
