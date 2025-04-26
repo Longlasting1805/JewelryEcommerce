@@ -205,9 +205,42 @@ import tudor2 from './tudor2.webp'
 import tudor3 from './tudor3.webp'
 import tudor4 from './tudor4.webp'
 import tudor5 from './tudor5.webp'
-
-
-
+import fossil01 from './fossil01.jpg'
+import fossil02 from './fossil02.jpg'
+import fossil03 from './fossil03.jpg'
+import fossil04 from './fossil04.jpg'
+import fossil05 from './fossil05.jpg'
+import fossil06 from './fossil06.jpg'
+import fossil07 from './fossil07.jpg'
+import girard1 from './girard1.webp'
+import girard2 from './girard2.webp'
+import girard3 from './girard3.webp'
+import girard4 from './girard4.webp'
+import girard5 from './girard5.webp'
+import mvmt1 from './mvmt1.jpg'
+import mvmt2 from './mvmt2.jpg'
+import mvmt3 from './mvmt3.jpg'
+import mvmt4 from './mvmt4.jpg'
+import patek1 from './patek1.webp'
+import patek2 from './patek2.webp'
+import patek3 from './patek3.webp'
+import patek4 from './patek4.webp'
+import patek5 from './patek5.webp'
+import west1 from './west1.jpg'
+import west2 from './west2.jpg'
+import west3 from './west3.jpg'
+import west4 from './west4.jpg'
+import blancpain1 from './blancpain1.webp'
+import blancpain2 from './blancpain2.webp'
+import blancpain3 from './blancpain3.webp'
+import blancpain4 from './blancpain4.webp'
+import blancpain5 from './blancpain5.webp'
+import olevs1 from './olevs1.jpg'
+import olevs2 from './olevs2.jpg'
+import olevs3 from './olevs3.jpg'
+import olevs4 from './olevs4.jpg'
+import olevs5 from './olevs5.jpg'
+import olevs6 from './olevs6.jpg'
 
 
 
@@ -426,6 +459,42 @@ export const assets = {
     tudor3,
     tudor4,
     tudor5,
+    fossil01,
+    fossil02,
+    fossil03,
+    fossil04,
+    fossil05,
+    fossil06,
+    fossil07,
+    girard1,
+    girard2,
+    girard3,
+    girard4,
+    girard5,
+    mvmt1,
+    mvmt2,
+    mvmt3,
+    mvmt4,
+    patek1,
+    patek2,
+    patek3,
+    patek4,
+    patek5,
+    west1,
+    west2,
+    west3,
+    west4,
+    blancpain1,
+    blancpain2,
+    blancpain3,
+    blancpain4,
+    blancpain5,
+    olevs1,
+    olevs2,
+    olevs3,
+    olevs4,
+    olevs5,
+    olevs6,
 
 }
 
@@ -731,7 +800,7 @@ export const products =[{
 {
     _id: "aaaaax",
     name: "Carl F. Bucherer. Alacria Queen 10702.01.90.11 Womens Watch in 18kt Yellow Gold", 
-    description: "Retail price 30400 USD. Brand new and unworn. All components are factory original. Photos of actual watch. Comes with the original box, papers, and instructions.",
+    description: "• Retail price 30400 USD. Brand new and unworn. All components are factory original. Photos of actual watch. Comes with the original box, papers, and instructions.",
     price: 14400,
     image: [carl1, carl2, carl3, carl4, carl5], 
     category: "Women",
@@ -809,7 +878,7 @@ export const products =[{
 {
     _id: "aaaaa4",
     name: "Tudor. Black Bay 31 S&G 79613 Womens Watch in 18kt Stainless Steel/Yellow Gold", 
-    description: "Retail price 8050 USD. In Pristine condition. All components are factory original. Photos of actual watch. Tudor Calibre MT5201, 27 Jewels",
+    description: "• Retail price 8050 USD. In Pristine condition. All components are factory original. Photos of actual watch. Tudor Calibre MT5201, 27 Jewels",
     price: 7200,
     image: [tudor1, tudor2, tudor3, tudor4, tudor5], 
     category: "Women",
@@ -847,10 +916,10 @@ export const products =[{
 },
 {
     _id: "aaaaa7",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 500,
-    image: [], 
+    name: "Fossil Women's Riley Quartz Stainless Steel Multifunction Watch", 
+    description: "• This 38mm Riley features a black sunray dial with black glitz indices and bezel, multifunction movement and a black stainless steel bracelet. Riley plays with proportion in a sophisticated way. With a classic shape and sporty features, Riley is a style that transcends the season.\n• Case & Movement: 38mm case, 18mm band width, hardened mineral crystal lens resists scratches, accurate Quartz multifunction movement with 3-hand analog display, imported\n• Dial: Round black stainless steel case, with a black sunray dial and glitz accents\n• Watch Band: Black, durable stainless steel bracelet band with a secure fold-over clasp closure; links can be removed for a customized fit.\n• Water Resistant: Up to 100m (330ft): Suitable for bathing, swimming or snorkeling, but is not resistant enough to withstand scuba diving; 10 ATM.",
+    price: 102,
+    image: [fossil01, fossil02, fossil03, fossil04, fossil05, fossil06, fossil07], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
@@ -899,10 +968,10 @@ export const products =[{
 },
 {
     _id: "aaaaa11",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 500,
-    image: [], 
+    name: "Girard Perregaux. 26620 Womens Watch in 18k White Gold", 
+    description: "• In excellent condition and recently serviced. Generic strap, original buckle.",
+    price: 7000,
+    image: [girard1, girard2, girard3, girard4, girard5], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
@@ -938,10 +1007,10 @@ export const products =[{
 },
 {
     _id: "aaaaa14",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 500,
-    image: [], 
+    name: "MVMT Rise Boyfriend Watches for Women - Premium Minimalist Vintage Watch - Analog - 5 ATM/50 Meters Water Resistance - 36mm", 
+    description: "• THE EFFORTLESSLY OVERSIZED LOOK - The Rise Boyfriend brings an efforlessly oversized 36mm case to our best selling vintage-inspired family.Featuring a 5-link stainless steel strap, a dimensional bezel and a framed date window.\n• THE BOYFRIEND WATCH - For decades, The boyfriend watch has brought the classic aesthetics of men’s timekeepers–bold, larger faces, sharp colorways, functional features like date window cutouts and strong hour markers–to more petite wrist sizes. Whether you’ve been looking for that timeless men’s watch in a more approachable size, or just prefer a larger case, the boyfriend watch is the way to go.\n• DURABLE AND WATER RESISTANT- Water Resistant up to 5 ATM/50 Meters. Perfect for carefree everyday use and can withstand a brief submersion under water, but should not be taken swimming or bathing. Glass case made of hardened mineral crystal for enhanced durability.\n• DESIGNED IN THE USA- Premium on-trend Watches and accessories, designed at our headquarters in Los Angeles.\n• TWO YEAR GUARANTEE- We're so confident you'll love what we do that we offer a two-year guarantee on everything we make",
+    price: 178,
+    image: [mvmt1, mvmt2, mvmt3, mvmt4], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
@@ -964,10 +1033,10 @@ export const products =[{
 },
 {
     _id: "aaaaa16",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 500,
-    image: [], 
+    name: "Patek Philippe. Twenty-4 4910G-001 Womens Watch in 18kt White Gold", 
+    description: "• Retail price 63100 USD. Introduced in 1999, the Patek Philippe Twenty-4 watch was created with the modern woman in mind. Showcasing either a round or rectangular face, the versatile watch is designed to effortlessly go from one occasion to another.\n• In excellent condition and recently serviced. All components are factory original. Photos of actual watch. Watch Number 5303B\n• Patek Calibre E15 A/G.3, 6 Jewels\n• Mvmt # 43576555.",
+    price: 40400,
+    image: [patek1, patek2, patek3, patek4, patek5], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
@@ -1003,10 +1072,10 @@ export const products =[{
 },
 {
     _id: "aaaaa19",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 500,
-    image: [], 
+    name: "Nine West Women's Mesh Bracelet Watch", 
+    description: "• Mineral crystal lens; light champagne dial with gold-tone hands and markers\n• Gold-tone stainless steel mesh bracelet with adjustable end links; jewelry clasp and extender\n• Japanese-quartz Movement\n• Case Diameter: 34mm\n• Not water resistant",
+    price: 18.34,
+    image: [west1, west2, west3, west4], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
@@ -1042,10 +1111,10 @@ export const products =[{
 },
 {
     _id: "aaaaa22",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 2100,
-    image: [], 
+    name: "Blancpain. Léman 2102 Womens Watch in Stainless Steel", 
+    description: "• Retail price 9800 USD. In excellent condition and recently serviced by a certified watchmaker. Generic strap. Photos of actual watch. Blancpain Calibre 953, 21 Jewels.",
+    price: 6000,
+    image: [blancpain1, blancpain2, blancpain3, blancpain4, blancpain5], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
@@ -1081,10 +1150,10 @@ export const products =[{
 },
 {
     _id: "aaaaa25",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 1500,
-    image: [], 
+    name: "OLEVS Women Wrist Watches Ultra Thin 6.5mm Minimalist Dress Fashion Leather Strap Quartz Waterproof Date Day Slim Watches for Ladies", 
+    description: "• ⌚ Long-Lasting & Reliable Performance:Powered by a high-quality Sony SR621SW-364 battery and featuring precise Japanese quartz movement, this watch ensures accurate timekeeping and durable performance for everyday wear.\n• ⌚ Ultra-Thin & Lightweight Design:With a sleek 6.5mm ultra-thin case and a dial thickness of only 0.25 inches, this watch is incredibly lightweight (25g) and comfortable to wear. Paired with a soft breathable leather strap, it’s perfect for all-day elegance.\n• ⌚ Water-Resistant for Daily Wear:The alloy case provides water resistance up to 30m (3ATM), making it splash-proof and suitable for rain, handwashing, or accidental water exposure. Ideal for business meetings, casual outings, or daily activities.\n• ⌚ Timeless Fashion for Every Occasion:Its minimalist and lightweight design effortlessly transitions from casual to formal settings. Whether for work, travel, or sports, this watch complements any style while meeting your everyday needs.\n• ⌚ Hassle-Free After-Sales Support:We stand by our product with a 30-day return policy. If you’re not completely satisfied, our professional support team is here to make it right—ensuring a worry-free shopping experience.",
+    price: 33.77,
+    image: [olevs1, olevs2, olevs3, olevs4, olevs5, olevs6], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
