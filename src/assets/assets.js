@@ -245,12 +245,21 @@ import concord1 from './concord1.webp'
 import concord2 from './concord2.webp'
 import concord3 from './concord3.webp'
 import concord4 from './concord4.webp'
-
-
-
-
-
-
+import olev01 from './olev01.jpg'
+import olev02 from './olev02.jpg'
+import olev03 from './olev03.jpg'
+import olev04 from './olev04.jpg'
+import olev05 from './olev05.jpg'
+import olev06 from './olev06.jpg'
+import concord01 from './concord01.webp'
+import concord02 from './concord02.webp'
+import concord03 from './concord03.webp'
+import concord04 from './concord04.webp'
+import menpatek1 from './menpatek1.webp'
+import menpatek2 from './menpatek2.webp'
+import menpatek3 from './menpatek3.webp'
+import menpatek4 from './menpatek4.webp'
+import menpatek5 from './menpatek5.webp'
 
 
 
@@ -505,6 +514,16 @@ export const assets = {
     concord2,
     concord3,
     concord4,
+    olev01,
+    olev02,
+    olev03,
+    olev04,
+    olev05,
+    olev06,
+    concord01,
+    concord02,
+    concord03,
+    concord04,
 
 
 }
@@ -1239,10 +1258,10 @@ export const products =[{
 },
 {
     _id: "aaaaa31",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 400,
-    image: [], 
+    name: "OLEVS Women Wrist Watches Ultra Thin 6.5mm Minimalist Dress Fashion Leather Strap Quartz Waterproof Date Day Slim Watches for Ladies", 
+    description: "• ⌚ Long-Lasting & Reliable Performance:Powered by a high-quality Sony SR621SW-364 battery and featuring precise Japanese quartz movement, this watch ensures accurate timekeeping and durable performance for everyday wear.\n• ⌚ Ultra-Thin & Lightweight Design:With a sleek 6.5mm ultra-thin case and a dial thickness of only 0.25 inches, this watch is incredibly lightweight (25g) and comfortable to wear. Paired with a soft breathable leather strap, it’s perfect for all-day elegance.\n• ⌚ Water-Resistant for Daily Wear:The alloy case provides water resistance up to 30m (3ATM), making it splash-proof and suitable for rain, handwashing, or accidental water exposure. Ideal for business meetings, casual outings, or daily activities.\n• ⌚ Timeless Fashion for Every Occasion:Its minimalist and lightweight design effortlessly transitions from casual to formal settings. Whether for work, travel, or sports, this watch complements any style while meeting your everyday needs.\n• ⌚ Hassle-Free After-Sales Support:We stand by our product with a 30-day return policy. If you’re not completely satisfied, our professional support team is here to make it right—ensuring a worry-free shopping experience.h",
+    price: 33.77,
+    image: [olev01, olev02, olev03, olev04, olev05, olev06], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
@@ -1278,10 +1297,10 @@ export const products =[{
 },
 {
     _id: "aaaaa34",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 5100,
-    image: [], 
+    name: "Concord. La Scala 14.H1.1371S Womens Watch in Stainless Steel", 
+    description: "• In excellent condition and recently serviced. All components are factory original. Photos of actual watch. Watch Number 4010.",
+    price: 2000,
+    image: [concord01, concord02, concord03, concord04], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
@@ -1289,4 +1308,17 @@ export const products =[{
     bestseller: true
 
 },
+{
+    _id: "aaaaa35",
+    name: "Patek Philippe. Aquanaut 5167A Mens Watch in Stainless Steel", 
+    description: "• When Patek Philippe introduced the Aquanaut watch in 1997, the reaction was nothing short of a sensation. The rounded octagon case, which was inspired by the Nautilus watch, offered an unexpected, new look.\n• In excellent condition and recently serviced by a certified watchmaker. All components are factory original. Photos of actual watch. Comes with the original box, papers, and instructions.",
+    price: 74700,
+    image: [menpatek1, menpatek2, menpatek3, menpatek4, menpatek5], 
+    category: "Men",
+    subCategory: "Men watch",
+    sizes: ["M", "L", "XL"],
+    date: 15442556, 
+    bestseller: true
+
+}
 ]
