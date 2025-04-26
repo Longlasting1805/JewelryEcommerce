@@ -241,6 +241,12 @@ import olevs3 from './olevs3.jpg'
 import olevs4 from './olevs4.jpg'
 import olevs5 from './olevs5.jpg'
 import olevs6 from './olevs6.jpg'
+import concord1 from './concord1.webp'
+import concord2 from './concord2.webp'
+import concord3 from './concord3.webp'
+import concord4 from './concord4.webp'
+
+
 
 
 
@@ -495,6 +501,11 @@ export const assets = {
     olevs4,
     olevs5,
     olevs6,
+    concord1,
+    concord2,
+    concord3,
+    concord4,
+
 
 }
 
@@ -1189,10 +1200,10 @@ export const products =[{
 },
 {
     _id: "aaaaa28",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 2500,
-    image: [], 
+    name: "Concord. La Scala 14.G5.1853.S Womens Watch in Stainless Steel", 
+    description: "• Retail price 7400 USD. Brand new and unworn. All components are factory original. Photos of actual watch. Watch Number 5402.",
+    price: 2600,
+    image: [concord1, concord2, concord3, concord4], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
