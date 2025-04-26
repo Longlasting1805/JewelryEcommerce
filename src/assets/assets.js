@@ -194,6 +194,22 @@ import carl2 from './carl2.webp'
 import carl3 from './carl3.webp'
 import carl4 from './carl4.webp'
 import carl5 from './carl5.webp'
+import fossil1 from './fossil1.jpg'
+import fossil2 from './fossil2.jpg'
+import fossil3 from './fossil3.jpg'
+import fossil4 from './fossil4.jpg'
+import fossil5 from './fossil5.jpg'
+import fossil6 from './fossil6.jpg'
+import tudor1 from './tudor1.webp'
+import tudor2 from './tudor2.webp'
+import tudor3 from './tudor3.webp'
+import tudor4 from './tudor4.webp'
+import tudor5 from './tudor5.webp'
+
+
+
+
+
 
 
 
@@ -399,9 +415,17 @@ export const assets = {
     carl3,
     carl4,
     carl5,
-
-
-
+    fossil1,
+    fossil2,
+    fossil3,
+    fossil4,
+    fossil5,
+    fossil6,
+    tudor1,
+    tudor2,
+    tudor3,
+    tudor4,
+    tudor5,
 
 }
 
@@ -745,10 +769,10 @@ export const products =[{
 },
 {
     _id: "aaaaa1",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 500,
-    image: [], 
+    name: "Fossil Women's Riley Quartz Stainless Steel Multifunction Watch", 
+    description: "• Our signature Riley style with a 45-stone topring, features a rose gold-tone finish and a textured rose dial. This Riley watch also features a multifunction movement.\n• Case & Movement: 38mm case, 18mm band width, hardened mineral crystal lens resists scratches, accurate Quartz movement with multifunction analog display, imported.\n• Dial: Round rose gold stainless steel case, with a rose gold textured dial and glitz accents.\n• Watch Band: Rose gold, durable stainless steel bracelet band with a secure fold-over clasp closure; links can be removed for a customized fit.\n• Water Resistant: Up to 100m (330ft): Suitable for bathing, swimming or snorkeling, but is not resistant enough to withstand scuba diving; 10 ATM.",
+    price: 101.13,
+    image: [fossil1, fossil2, fossil3, fossil4, fossil5, fossil6], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
@@ -784,10 +808,10 @@ export const products =[{
 },
 {
     _id: "aaaaa4",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 500,
-    image: [], 
+    name: "Tudor. Black Bay 31 S&G 79613 Womens Watch in 18kt Stainless Steel/Yellow Gold", 
+    description: "Retail price 8050 USD. In Pristine condition. All components are factory original. Photos of actual watch. Tudor Calibre MT5201, 27 Jewels",
+    price: 7200,
+    image: [tudor1, tudor2, tudor3, tudor4, tudor5], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
