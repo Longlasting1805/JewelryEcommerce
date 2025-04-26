@@ -173,6 +173,32 @@ import chopard2 from './chopard2.webp'
 import chopard3 from './chopard3.webp'
 import chopard4 from './chopard4.webp'
 import chopard5 from './chopard5.webp'
+import silicon1 from './silicon1.jpg'
+import silicon2 from './silicon2.jpg'
+import silicon3 from './silicon3.jpg'
+import silicon4 from './silicon4.jpg'
+import silicon5 from './silicon5.jpg'
+import silicon6 from './silicon6.jpg'
+import quadra1 from './quadra1.webp'
+import quadra2 from './quadra2.webp'
+import quadra3 from './quadra3.webp'
+import quadra4 from './quadra4.webp'
+import analog1 from './analog1.jpg'
+import analog2 from './analog2.jpg'
+import analog3 from './analog3.jpg'
+import analog4 from './analog4.jpg'
+import analog5 from './analog5.jpg'
+import analog6 from './analog6.jpg'
+import carl1 from './carl1.webp'
+import carl2 from './carl2.webp'
+import carl3 from './carl3.webp'
+import carl4 from './carl4.webp'
+import carl5 from './carl5.webp'
+
+
+
+
+
 
 
 
@@ -352,6 +378,28 @@ export const assets = {
     chopard3,
     chopard4,
     chopard5,
+    silicon1,
+    silicon2,
+    silicon3,
+    silicon4,
+    silicon5,
+    silicon6,
+    quadra1,
+    quadra2,
+    quadra3,
+    quadra4,
+    analog1,
+    analog2,
+    analog3,
+    analog4,
+    analog5,
+    analog6,
+    carl1,
+    carl2,
+    carl3,
+    carl4,
+    carl5,
+
 
 
 
@@ -567,10 +615,10 @@ export const products =[{
 },
 {
     _id: "aaaaaq",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 500,
-    image: [], 
+    name: "Nurse Watch for Women Waterproof Analog Silicone Watch with Second Hand Nursing Watch", 
+    description: "• Nursing Watch: Easy to read , second hand watch for nursing, glows in the dark, simple and fashionable, watches for nursing, nursing, doctors, medical professionals essentials\n• Easy to Read: Nurse watch with secondhand,Night-illuminated dial, 24-hour display, 38mm large face watch for nurses with Arabic numerals, clear and easy to read, perfect for nursing professionals night shifts.\n• Water Resistan: Waterproof watches for nurses, 3ATM (depth 30 meters), medical watch during nursing, experimentation\n• Silicone Watch: Women's analog watch with silicone strap, soft and comfortable, no elasticity, doesn't stretch, fits your wrist better, easy to clean, 8 adjustment holes on the strap, easy to adjust strap size , fits small wrists from 15.2 cm to 20 cm\n• Nurse Gift: Simple and fashionable nurse watch, perfect for nursing gifts, eg , birthday gift, Christmas gift, Valentine's Day gift, Nurse's Day gift",
+    price: 9.99,
+    image: [silicon1, silicon2, silicon3, silicon4, silicon5, silicon6], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
@@ -593,10 +641,10 @@ export const products =[{
 },
 {
     _id: "aaaaas",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 500,
-    image: [], 
+    name: "Omega. Constellation Quadra 1528.46.00 Womens Watch in Stainless Steel", 
+    description: "• The Constellation watch by Omega includes the iconic four claws, half-moon facets, Roman numerals and single golden star detail. The collection 'represents precision and timeless design'. The first style was introduced in 1952 but the watch has seen significant developments over the years.",
+    price: 1850,
+    image: [quadra1, quadra2, quadra3, quadra4], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
@@ -619,10 +667,10 @@ export const products =[{
 },
 {
     _id: "aaaaau",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 500,
-    image: [], 
+    name: "Nurse Watch for Women Waterproof Analog Silicone Watch with Second Hand Nursing Watch", 
+    description: "• Nursing Watch: Easy to read , second hand watch for nursing, glows in the dark, simple and fashionable, watches for nursing, doctors, medical professionals essentials\n• Easy to Read: Nurse watch with secondhand,Night-illuminated dial, 24-hour display, 38mm large face watch for nurses with Arabic numerals, clear and easy to read, perfect for nursing professionals night shifts.\n• Water Resistan: Waterproof watches for nurses, 3ATM (depth 30 meters), medical watch during nursing, experimentation\n• Silicone Watch: Women's analog watch with silicone strap, soft and comfortable, no elasticity, doesn't stretch, fits your wrist better, easy to clean, 8 adjustment holes on the strap, easy to adjust strap size , fits small wrists from 15.2 cm to 20 cm\n• Nurse Gift: Simple and fashionable nurse watch, perfect for nursing gifts, eg , birthday gift, Christmas gift, Valentine's Day gift, Nurse's Day gift",
+    price: 9.99,
+    image: [analog1, analog2, analog3, analog4, analog5, analog6], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
@@ -646,7 +694,7 @@ export const products =[{
 {
     _id: "aaaaaw",
     name: "AIMES Mens Watches for Men Casual Chronograph Waterproof Sport Military Watch Analog Quartz Movement Stylish Luxury Dress Wrist Watch Elegant Gift Watch for Men", 
-    description: "•Elegant design: AIMES offers men a range of classic designer watches. This watch comes with 100% thick glass and a polished black case. The round green dial of this watch has a multifunctional dial, a chronograph and a day indicator for a stylish look\n• WATER AND SCRATCH RESISTANT: The watch is 30m water resistant and can withstand sweat, accidental rain or splashing water. This watch is scratch-resistant and feels pliable. The hard-wearing leather bracelet is fully flexible\n• PREMIUM QUALITY: The analog clock with quartz movement offers a classy look. The housing is made of high quality stainless steel. The dial has a built-in date calendar function that shows the date. The strap is soft and comfortable to wear.\n• A PERFECT GIFT: This versatile watch is suitable for any occasion, whether formal or casual. Wear this watch for on the go, for business, leisure, indoor and outdoor activities or for everyday use. The Benyar wristwatch is a perfect gift for you and your loved ones.\n• CUSTOMER SATISFACTION: AIMES watch men provides an 30-day return policy and a 1-year after sales service. AIMES is committed to offering a range of classic designer wrist watches for men and high standards of customer service. If you have any questions about our analog watch men, please contact us first and we will provide you with a satisfactory solution within 24 hours.",
+    description: "• Elegant design: AIMES offers men a range of classic designer watches. This watch comes with 100% thick glass and a polished black case. The round green dial of this watch has a multifunctional dial, a chronograph and a day indicator for a stylish look\n• WATER AND SCRATCH RESISTANT: The watch is 30m water resistant and can withstand sweat, accidental rain or splashing water. This watch is scratch-resistant and feels pliable. The hard-wearing leather bracelet is fully flexible\n• PREMIUM QUALITY: The analog clock with quartz movement offers a classy look. The housing is made of high quality stainless steel. The dial has a built-in date calendar function that shows the date. The strap is soft and comfortable to wear.\n• A PERFECT GIFT: This versatile watch is suitable for any occasion, whether formal or casual. Wear this watch for on the go, for business, leisure, indoor and outdoor activities or for everyday use. The Benyar wristwatch is a perfect gift for you and your loved ones.\n• CUSTOMER SATISFACTION: AIMES watch men provides an 30-day return policy and a 1-year after sales service. AIMES is committed to offering a range of classic designer wrist watches for men and high standards of customer service. If you have any questions about our analog watch men, please contact us first and we will provide you with a satisfactory solution within 24 hours.",
     price: 34.99,
     image: [aimes1, aimes2, aimes3, aimes4, aimes4, aimes5, aimes6], 
     category: "Men",
@@ -658,10 +706,10 @@ export const products =[{
 },
 {
     _id: "aaaaax",
-    name: "Women Wrist Watch", 
-    description: "A lightweight women wrist watch",
-    price: 500,
-    image: [], 
+    name: "Carl F. Bucherer. Alacria Queen 10702.01.90.11 Womens Watch in 18kt Yellow Gold", 
+    description: "Retail price 30400 USD. Brand new and unworn. All components are factory original. Photos of actual watch. Comes with the original box, papers, and instructions.",
+    price: 14400,
+    image: [carl1, carl2, carl3, carl4, carl5], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
