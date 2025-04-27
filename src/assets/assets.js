@@ -260,6 +260,27 @@ import menpatek2 from './menpatek2.webp'
 import menpatek3 from './menpatek3.webp'
 import menpatek4 from './menpatek4.webp'
 import menpatek5 from './menpatek5.webp'
+import tiktiki1 from './tiktiki1.jpg'
+import tiktiki2 from './tiktiki2.jpg'
+import tiktiki3 from './tiktiki3.jpg'
+import tiktiki4 from './tiktiki4.jpg'
+import tiktiki5 from './tiktiki5.jpg'
+import tiktiki6 from './tiktiki6.jpg'
+import tiktiki7 from './tiktiki7.jpg'
+import tiktiki8 from './tiktiki8.jpg'
+import tiktiki9 from './tiktiki9.jpg'
+import blacktikiti1 from './blacktikiti1.jpg'
+import blacktikiti2 from './blacktikiti2.jpg'
+import blacktikiti3 from './blacktikiti3.jpg'
+import blacktikiti4 from './blacktikiti4.jpg'
+import blacktikiti5 from './blacktikiti5.jpg'
+import blacktikiti6 from './blacktikiti6.jpg'
+import blacktikiti7 from './blacktikiti7.jpg'
+
+
+
+
+
 
 
 
@@ -524,6 +545,24 @@ export const assets = {
     concord02,
     concord03,
     concord04,
+    tiktiki1,
+    tiktiki2,
+    tiktiki3,
+    tiktiki4,
+    tiktiki5,
+    tiktiki6,
+    tiktiki7,
+    tiktiki8,
+    tiktiki9,
+    blacktikiti1,
+    blacktikiti2,
+    blacktikiti3,
+    blacktikiti4,
+    blacktikiti5,
+    blacktikiti6,
+    blacktikiti7,
+
+
 
 
 }
@@ -556,10 +595,10 @@ export const products =[{
 },
 {
     _id: "aaaaac",
-    name: "Kids Wrist Watch", 
-    description: "A lightweight kid wrist watch",
-    price: 6500,
-    image: [], 
+    name: "Smart Watch for Kids No Phone No APP Needed, 1.83 Fitness Tracker Watch with Pedometer, Step Counter, Heart Rate/Sleep Monitor, IP68 Waterproof, Puzzle Games for Girls Teens 7-16", 
+    description: "• [All-Day Activity Tracking]: The TICTIKY Stellar 2 Smart Watch for kids and kids automatically tracks steps, distance, calories burned, and active minutes. With support for 80+ sports modes-including walking, running, cycling, swimming (IP68 waterproof), and basketball-it’s the perfect companion for active kids.\n• [Comprehensive Fitness & Health Tracking]: Promote your child’s well-being with real-time heart rate monitoring and advanced sleep tracking. The watch analyzes sleep stages (REM, light, deep) to provide insights into sleep quality. Note: Sleep tracking requires more than 3 hours of sleep and long-term wear for accurate results.\n• [Works With or Without an App]: Use the TICTIKY kids fitness tracker watch independently or connect it to the app for enhanced features. Compatible with Android 6.0+ and iOS 9.0+ smartphones, it offers flexibility for parents and kids alike.\n• [Customizable Watch Face & 1.83 HD Touch Screen]: Personalize the 1.83 HD touch screen with 100+ cloud dials or upload your child's photos to create unique watch faces. This feature sparks creativity and makes the watch truly their own.\n• [Puzzle Games & Parental Controls]: Equipped with 5 built-in puzzle games to boost reaction and calculation skills, this smartwatch also includes parental controls. Use the app to restrict game access during school hours or lock games entirely, ensuring a balanced experience.\n• [Encourages Healthy Habits & Perfect Gift for Kids]: The TICTIKY kids smartwatch motivates children to stay active and develop healthy exercise habits through step tracking, sports modes, and fun challenges. With its stylish design and customizable features, it's the ideal gift for birthdays, Christmas, or any special occasion. Give the gift of health, fun, and creativity to your child today!",
+    price: 36.99,
+    image: [tiktiki1, tiktiki2, tiktiki3, tiktiki4, tiktiki5, tiktiki6, tiktiki7, tiktiki8, tiktiki9], 
     category: "Kids",
     subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
@@ -803,10 +842,10 @@ export const products =[{
 },
 {
     _id: "aaaaav",
-    name: "Kids Wrist Watch", 
-    description: "A lightweight Kids wrist watch",
-    price: 500,
-    image: [], 
+    name: "Smart Watch for Kids No Phone No APP Needed, 1.83  Fitness Tracker Watch with Pedometer, Step Counter, Heart Rate/Sleep Monitor, IP68 Waterproof, Puzzle Games for Girls Boys for Kids 5+", 
+    description: "• [All-Day Activity Tracking]: The TICTIKY Stellar 2 Smart Watch for kids and kids automatically tracks steps, distance, calories burned, and active minutes. With support for 80+ sports modes-including walking, running, cycling, swimming (IP68 waterproof), and basketball-it’s the perfect companion for active kids.\n• [Comprehensive Fitness & Health Tracking]: Promote your child’s well-being with real-time heart rate monitoring and advanced sleep tracking. The watch analyzes sleep stages (REM, light, deep) to provide insights into sleep quality. Note: Sleep tracking requires more than 3 hours of sleep and long-term wear for accurate results.\n• [Works With or Without an App]: Use the TICTIKY kids fitness tracker watch independently or connect it to the app for enhanced features. Compatible with Android 6.0+ and iOS 9.0+ smartphones, it offers flexibility for parents and kids alike.\n• [Customizable Watch Face & 1.83 HD Touch Screen]: Personalize the 1.83 HD touch screen with 100+ cloud dials or upload your child's photos to create unique watch faces. This feature sparks creativity and makes the watch truly their own.\n• [Puzzle Games & Parental Controls]: Equipped with 5 built-in puzzle games to boost reaction and calculation skills, this smartwatch also includes parental controls. Use the app to restrict game access during school hours or lock games entirely, ensuring a balanced experience.\n• [Encourages Healthy Habits & Perfect Gift for Kids]: The TICTIKY kids smartwatch motivates children to stay active and develop healthy exercise habits through step tracking, sports modes, and fun challenges. With its stylish design and customizable features, it's the ideal gift for birthdays, Christmas, or any special occasion. Give the gift of health, fun, and creativity to your child today!",
+    price: 36.99,
+    image: [blacktikiti1, blacktikiti2, blacktikiti3, blacktikiti4, blacktikiti5, blacktikiti6, blacktikiti7], 
     category: "Kids",
     subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
