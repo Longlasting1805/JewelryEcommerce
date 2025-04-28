@@ -276,12 +276,30 @@ import blacktikiti4 from './blacktikiti4.jpg'
 import blacktikiti5 from './blacktikiti5.jpg'
 import blacktikiti6 from './blacktikiti6.jpg'
 import blacktikiti7 from './blacktikiti7.jpg'
-
-
-
-
-
-
+import cute1 from './cute1.jpg'
+import cute2 from './cute2.jpg'
+import cute3 from './cute3.jpg'
+import cute4 from './cute4.jpg'
+import cute5 from './cute5.jpg'
+import cute6 from './cute6.jpg'
+import counter1 from './counter1.jpg'
+import counter2 from './counter2.jpg'
+import counter3 from './counter3.jpg'
+import counter4 from './counter4.jpg'
+import counter5 from './counter5.jpg'
+import counter6 from './counter6.jpg'
+import pinkv1 from './pinkv1.jpg'
+import pinkv2 from './pinkv2.jpg'
+import pinkv3 from './pinkv3.jpg'
+import pinkv4 from './pinkv4.jpg'
+import pinkv5 from './pinkv5.jpg'
+import pinkv6 from './pinkv6.jpg'
+import pedometer1 from './pedometer1.jpg'
+import pedometer2 from './pedometer2.jpg'
+import pedometer3 from './pedometer3.jpg'
+import pedometer4 from './pedometer4.jpg'
+import pedometer5 from './pedometer5.jpg'
+import pedometer6 from './pedometer6.jpg'
 
 
 
@@ -561,6 +579,30 @@ export const assets = {
     blacktikiti5,
     blacktikiti6,
     blacktikiti7,
+    cute1,
+    cute2,
+    cute3,
+    cute4,
+    cute5,
+    counter1,
+    counter2, 
+    counter3,
+    counter4,
+    counter5,
+    counter6,
+    pinkv1,
+    pinkv2,
+    pinkv3,
+    pinkv4,
+    pinkv4,
+    pinkv5,
+    pinkv6,
+    pedometer1,
+    pedometer2,
+    pedometer3,
+    pedometer4,
+    pedometer5,
+    pedometer6,
 
 
 
@@ -754,7 +796,7 @@ export const products =[{
     name: "Chopard. BRAND NEW Chopard Classic 119392-5001 Womens Watch in 18kt Rose Gold", 
     description: "• Retail price 17500 USD. Unworn and in excellent Condition. All components are factory original. Photos of actual watch.",
     price: 10500,
-    image: [chopard1, chopard2, chopard3, chopard4, chopard5], 
+    image: [chopard1, chopard2, chopard3, chopard4], 
     category: "Women",
     subCategory: "Women watch",
     sizes: ["M", "L", "XL"],
@@ -881,10 +923,10 @@ export const products =[{
 },
 {
     _id: "aaaaay",
-    name: "Kids Wrist Watch", 
-    description: "A lightweight kids wrist watch",
-    price: 500,
-    image: [], 
+    name: "Kids Digital Watches for Girls Boys, 7 Color Lights Waterproof Cute Wristwatches for Kids with Alarm Stopwatch, Great Present for Girls Boys Ages 5-13", 
+    description: "• Cute fun kids digital watch: Made of good quality materials and strict quality testing. function meets the daily needs of most kids. With alarm clock, colorful lights, stopwatch, waterproof, calendar, 12/24H switching and other practical functions\n• Kids Colorful Lights: Japan imported movement and battery, longer battery life. added more attractive 7 color lights,kids can easily read the time even at night. Adjustable monochrome lights and seven-color flashing lights enhance kids' attention to time\n• Kids waterproof watch:The depth of waterproof is up to 30M, Meet kids daily life use. Washing hands, splashing, getting wet is not a problem. The resin case and stainless steel back can well protect the watch from scratches, drops and knocks\n• KIDS SPORTS WATCH: Kids watch Stopwatch function, which can be used as a running watch for boys and girls to assist them in keeping time during exercise\n• The kid's watch has a soft band that is comfortable to wear and gentle on the skin, and a stainless steel clasp that is easily adjustable to the size of kids wrist. Maximum circumference:20 cm (7.87 inches), minimum circumference: 13.2 cm (5.2 inches)\n• The kid's watch comes with a beautiful package, which can be directly given as a Presents to your child either on their birthday, Christmas, Easter, Halloween or back to school. The kids watch is suitable for girls and boys aged 5-13 years old",
+    price: 6.99,
+    image: [cute1, cute2, cute3, cute4, cute5, cute6], 
     category: "Kids",
     subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
@@ -920,10 +962,10 @@ export const products =[{
 },
 {
     _id: "aaaaa2",
-    name: "Kids Wrist Watch", 
-    description: "A lightweight kids wrist watch",
-    price: 500,
-    image: [], 
+    name: "Kids Watches for Girls Boys Digital Sport Watch with Step Counter Pedometer Vibration Alarm Clock, No App Waterproof Fitness Tracker Kids Watch Boys Girls Teens Students Ages 5-16", 
+    description: "• 🎁[Kids Sport Watches] Fitness Tracker — No Need to Link Phone, you don’t download an APP, just bring a watch to track smartly, step counting, stopwatch, calories, mileage, and recording of every day’s exercise data.\n• ⏰[Silent Vibration Alarm] - Vibration alarm remind children to study and rest on time. Whether in the classroom or in the dormitory, the vibration design will not disturb others, which is very suitable for students.\n• 🎄[Convenient Charging] - The dial comes with a USB interface, you can use any USB adapter (such as smart phone adapter, computer) to charge the watch, and the battery life is 15 days+.\n• 🎁[Excellent Quality] - Environmentally friendly ABS watch case + metal parts made of high quality stainless steel material, make the watch durable. Food grade environmental friendly soft silicone watchband is more suitable for children, effectively protect your child's wrist.\n• ⛳[50M Waterproof] -Wearing it can wash your face, wash your hands, and get in the rain, but it is not recommended to wear it when swimming.",
+    price: 22.75,
+    image: [counter1, counter2, counter3, counter4, counter5, counter6], 
     category: "Kids",
     subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
@@ -959,10 +1001,10 @@ export const products =[{
 },
 {
     _id: "aaaaa5",
-    name: "Kids Wrist Watch", 
-    description: "A lightweight kids wrist watch",
-    price: 500,
-    image: [], 
+    name: "Kids Watches for Girls Boys Digital Sport Watch with Step Counter Pedometer Vibration Alarm Clock, No App Waterproof Fitness Tracker Kids Watch Boys Girls Teens Students Ages 5-16", 
+    description: "• [Kids Sport Watches] Fitness Tracker — No Need to Link Phone, you don’t download an APP, just bring a watch to track smartly, step counting, stopwatch, calories, mileage, and recording of every day’s exercise data.\n• [Silent Vibration Alarm] - Vibration alarm remind children to study and rest on time. Whether in the classroom or in the dormitory, the vibration design will not disturb others, which is very suitable for students.\n• [Convenient Charging] - The dial comes with a USB interface, you can use any USB adapter (such as smart phone adapter, computer) to charge the watch, and the battery life is 15 days+.\n• [Excellent Quality] - Environmentally friendly ABS watch case + metal parts made of high quality stainless steel material, make the watch durable. Food grade environmental friendly soft silicone watchband is more suitable for children, effectively protect your child's wrist.\n• [50M Waterproof] -Wearing it can wash your face, wash your hands, and get in the rain, but it is not recommended to wear it when swimming.",
+    price: 22.75,
+    image: [pinkv1, pinkv2, pinkv3, pinkv4, pinkv5, pinkv6], 
     category: "Kids",
     subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
@@ -998,10 +1040,10 @@ export const products =[{
 },
 {
     _id: "aaaaa8",
-    name: "Kids Wrist Watch", 
-    description: "A lightweight kids wrist watch",
-    price: 500,
-    image: [], 
+    name: "L LAVAREDO Waterproof Kids Digital Watches for Boys Girls,Sport Watch with Pedometer Stopwatch Vibration Alarm for Ages 5-13,No App Fitness Tracker Watch for Kids Teens Birthday Christmas Gifts", 
+    description: "• Fitness Tracker Watch for Kids:No need to connect phone or download APP, just set your height and weight to calculate steps,calories,mileage,and daily exercise data.It is a very popular outdoor sports watch for boys and girls\n• Multi-function Digital Watches:The watch features time display,calendar,alarm,stopwatch,pedometer,calories,and mileage,etc.Sturdy zinc alloy case and soft silicone strap,High-resolution resin dial and metal back cover,more long-lasting and more comfortable for kids to wear\n• Silent Vibration Alarm Clock:The digital watch can be set with 2 silent vibration alarms,it can help children to manage study or rest time.The silent vibrating alarm clock doesn't worry about disturbing others and can be used in classrooms,libraries,dormitories and more.Very suitable for children,teenagers,and students\n• Rechargeable Waterproof Kids Watch:Improved charging port,not the original USB charging port,avoids the problem of water entering the charging port and improves the waterproofness of the watch.50M water-resistant adapts to daily life,can be used in hand washing,water splashing,rainy days,etc.Note:Do not wear the watch when it is completely submerged in water such as swimming or bathing\n• Ideal Gifts & Reliable Service:The Sport Watch is suitable for kids of ages 5-13 and is a great gift for birthdays,Christmas,Halloween,Easter,school season and New Year's for your children.If you have more questions about this watch,please contact us and we will give you a satisfactory answer",
+    price: 19.79,
+    image: [pedometer1, pedometer2, pedometer3, pedometer4, pedometer5, pedometer6], 
     category: "Kids",
     subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
