@@ -344,6 +344,14 @@ import ticktalk4 from './ticktalk4.jpg'
 import ticktalk5 from './ticktalk5.jpg'
 import ticktalk6 from './ticktalk6.jpg'
 import ticktalk7 from './ticktalk7.jpg'
+import ticktalk01 from './ticktalk01.jpg'
+import ticktalk02 from './ticktalk02.jpg'
+import ticktalk03 from './ticktalk03.jpg'
+import ticktalk04 from './ticktalk04.jpg'
+import ticktalk05 from './ticktalk05.jpg'
+import ticktalk06 from './ticktalk06.jpg'
+import ticktalk07 from './ticktalk07.jpg'
+
 
 
 
@@ -697,6 +705,14 @@ export const assets = {
     ticktalk5,
     ticktalk6,
     ticktalk7,
+    ticktalk01,
+    ticktalk02,
+    ticktalk03,
+    ticktalk04,
+    ticktalk05,
+    ticktalk06,
+    ticktalk07,
+    
 
 
     
@@ -1449,10 +1465,10 @@ export const products =[{
 },
 {
     _id: "aaaaa32",
-    name: "Kids Wrist Watch", 
-    description: "A lightweight kids wrist watch",
-    price: 600,
-    image: [], 
+    name: "TickTalk 5 - Kids Smart Watch with GPS Tracker, Video Calling, SOS, & Parental Controls | Smartwatch with Free Music, Texting, Kid Phone Call and Text, Boys & Girls - 4G Smart Watch for Kids 3-12", 
+    description: "• HD VOICE & VIDEO CALLS: TickTalk 5 is a standalone 4G LTE kids smartwatch that supports voice and video calls through WiFi or cellular data. Equipped with a 5MP front camera, TickTalk 5 provides smooth, HD-quality voice and video calls. The watch features quick-dial buttons for 911 and other emergency contacts, instantly notifying parents with the location of emergency calls for added peace of mind.\n• SECURED MESSAGING: TickTalk 5 delivers the most expansive messaging experience in a kid’s smartwatch. Enjoy seamless Talk-to-Text, quick responses, voice recordings, emojis, GIFs, and group chats—all secured with end-to-end encryption. Stay connected with your family while ensuring safety and privacy.\n• PRECISE LOCATION TRACKING & SMARTPIN: Powered by Google Maps and enhanced with TickTalk Location SmartPin, the first AI-powered location correction for kids' smartwatches in the U.S., TickTalk 5 provides accurate real-time location tracking and route playback. SmartPin uses AI algorithms to continuously refine GPS accuracy, ensuring pinpoint precision—even indoors. Parents are instantly notified of emergency calls with location updates, offering peace of mind and reassurance.\n• SUPERIOR PERFORMANCE: Featuring unique SignalBooster technology, TickTalk 5 delivers superior signal coverage across 4G LTE networks worldwide, along with Wi-Fi and Bluetooth compatibility. Optimized firmware and a high-performance battery provide up to 100+ hours of standby time, keeping your child connected all day long.\n• MOST POWERFUL PARENTAL CONTROLS: Manage your child’s safety effortlessly with the TickTalk Parental Control app. Add trusted contacts, block unknown callers, view call logs, set reminders, enable School Mode, create watch passwords, invite new app users while managing their permissions, and control watch data T-Cloud backups—all from your smartphone.\n• KID-FRIENDLY MUSIC & WELLNESS: Encourage healthy habits with a built-in activity tracker, customizable step goals, and 3D reminders. TickTalk 5 offers free kid-friendly streaming music powered by the iHeartRadio Family app, with usage limits managed through the TickTalk app.\n• PRACTICAL & FUN APPS: Designed with kids in mind, TickTalk 5 includes practical tools like a calculator, calendar, timer, stopwatch, photo filters, and e-greeting cards—no games, no social media.\n• UNMATCHED SIGNAL & GLOBAL CONNECTIVITY: Designed for the best nationwide signal coverage, TickTalk 5 supports up to 9 LTE bands for reliable connectivity across the U.S. and seamless use in many countries worldwide.\n• BUILT FOR KIDS, TRUSTED BY FAMILIES: Made for kids ages 3-12, TickTalk 5 is IP67 water-resistant, shockproof, and dustproof for active play. Its ScreenSafe design reduces screen damage, with regular updates and reliable customer support to keep families satisfied.",
+    price: 159.99,
+    image: [ticktalk01, ticktalk02, ticktalk03, ticktalk04, ticktalk05, ticktalk06, ticktalk07], 
     category: "Kids",
     subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
