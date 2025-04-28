@@ -300,6 +300,20 @@ import pedometer3 from './pedometer3.jpg'
 import pedometer4 from './pedometer4.jpg'
 import pedometer5 from './pedometer5.jpg'
 import pedometer6 from './pedometer6.jpg'
+import pedometer01 from './pedometer01.jpg'
+import pedometer02 from './pedometer02.jpg'
+import pedometer03 from './pedometer03.jpg'
+import pedometer04 from './pedometer04.jpg'
+import pedometer05 from './pedometer05.jpg'
+import pedometer06 from './pedometer06.jpg'
+import cofuo1 from './cofuo1.jpg'
+import cofuo2 from './cofuo2.jpg'
+import cofuo3 from './cofuo3.jpg'
+import cofuo4 from './cofuo4.jpg'
+import cofuo5 from './cofuo5.jpg'
+import cofuo6 from './cofuo6.jpg'
+import cofuo7 from './cofuo7.jpg'
+
 
 
 
@@ -603,6 +617,21 @@ export const assets = {
     pedometer4,
     pedometer5,
     pedometer6,
+    pedometer01,
+    pedometer02,
+    pedometer03,
+    pedometer04,
+    pedometer05,
+    pedometer06,
+    cofuo1,
+    cofuo2,
+    cofuo3,
+    cofuo4,
+    cofuo5,
+    cofuo6,
+    cofuo7
+
+    
 
 
 
@@ -1053,10 +1082,10 @@ export const products =[{
 },
 {
     _id: "aaaaa9",
-    name: "Kids Wrist Watch", 
-    description: "A lightweight kids wrist watch",
-    price: 500,
-    image: [], 
+    name: "L LAVAREDO Waterproof Kids Digital Watches for Boys Girls,Sport Watch with Pedometer Stopwatch Vibration Alarm for Ages 5-13,No App Fitness Tracker Watch for Kids Teens Birthday Christmas Gifts", 
+    description: "• Fitness Tracker Watch for Kids:No need to connect phone or download APP,just set your height and weight to calculate steps,calories,mileage,and daily exercise data.It is a very popular outdoor sports watch for boys and girls\n• Multi-function Digital Watches:The watch features time display,calendar,alarm,stopwatch,pedometer,calories,and mileage,etc.Sturdy zinc alloy case and soft silicone strap,High-resolution resin dial and metal back cover,more long-lasting and more comfortable for kids to wear\n• Silent Vibration Alarm Clock:The digital watch can be set with 2 silent vibration alarms,it can help children to manage study or rest time.The silent vibrating alarm clock doesn't worry about disturbing others and can be used in classrooms,libraries,dormitories and more.Very suitable for children,teenagers,and students\n• Rechargeable Waterproof Kids Watch:Improved charging port,not the original USB charging port,avoids the problem of water entering the charging port and improves the waterproofness of the watch.50M water-resistant adapts to daily life,can be used in hand washing,water splashing,rainy days,etc.Note:Do not wear the watch when it is completely submerged in water such as swimming or bathing\n• Ideal Gifts & Reliable Service:The Sport Watch is suitable for kids of ages 5-13 and is a great gift for birthdays,Christmas,Halloween,Easter,school season and New Year's for your children.If you have more questions about this watch,please contact us and we will give you a satisfactory answer",
+    price: 19.79,
+    image: [pedometer01, pedometer02, pedometer03, pedometer04, pedometer05, pedometer06], 
     category: "Kids",
     subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
@@ -1092,10 +1121,10 @@ export const products =[{
 },
 {
     _id: "aaaaa12",
-    name: "Kids Wrist Watch", 
-    description: "A lightweight kids wrist watch",
-    price: 500,
-    image: [], 
+    name: "cofuo Kids Digital Sport Waterproof Watch for Girls Boys, Kid Sports Outdoor LED Electrical Watches with Luminous Alarm Stopwatch Child Wristwatch", 
+    description: "• Digital Watch: Fashionable sport dial design for kids, sport style outlook. Large dial and numbers with light, show time clear in the dark. Use EL lamp, press light button to see the time clearly in the light.dark blue, green, red, sky blue, orange, pink, purple, these seven backlight colors can be adjusted when you hold down the upper-left backlight button for 3 seconds, this can satisfy the child's curiosity.\n• Precise Time Keeping: Original movement, provide precise and accurate time keeping for kids. The battery which can provide the sport watch strong power. Watch time is super easy to read with high transparency resin watches face and clear digital dial.\n• Highly Transparent Resin Glass: The digital watch glass is made from the highly clear resin material imported abroad and sealed with the case by high frequency machine. So that the glass is extremely hard and pressure-tolerant for hyperactive kids( girls or boys).\n• Waterproof for Daily Use: 30M water resistant, handwash, swimming, no problem ! Feel free to wear the digital sport stopwatch when kids are showering, swimming . Note: Please do not press any buttons in the water or wear this watches for longtime underwater activities - such as diving, ect. Too much water contact or usage in extreme hot or cold temperature will shorter watch life.\n• Silicone rubber watch band with the sport design make it comfortable to wear and lead kids to the edge of fashion. This purple digital led electrical luminescent waterproof watch is very suitable for girls or boys outdoor play.",
+    price: 13.99,
+    image: [cofuo1, cofuo2, cofuo3, cofuo4, cofuo5, cofuo6, cofuo7], 
     category: "Kids",
     subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
