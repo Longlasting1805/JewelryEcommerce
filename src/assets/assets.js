@@ -313,6 +313,42 @@ import cofuo4 from './cofuo4.jpg'
 import cofuo5 from './cofuo5.jpg'
 import cofuo6 from './cofuo6.jpg'
 import cofuo7 from './cofuo7.jpg'
+import stopwatch1 from './stopwatch1.jpg'
+import stopwatch2 from './stopwatch2.jpg'
+import stopwatch3 from './stopwatch3.jpg'
+import stopwatch4 from './stopwatch4.jpg'
+import stopwatch5 from './stopwatch5.jpg'
+import stopwatch6 from './stopwatch6.jpg'
+import pinkstopwatch1 from './pinkstopwatch1.jpg'
+import pinkstopwatch2 from './pinkstopwatch2.jpg'
+import pinkstopwatch3 from './pinkstopwatch3.jpg'
+import pinkstopwatch4 from './pinkstopwatch4.jpg'
+import pinkstopwatch5 from './pinkstopwatch5.jpg'
+import pinkstopwatch6 from './pinkstopwatch6.jpg'
+import wonlex1 from './wonlex1.jpg'
+import wonlex2 from './wonlex2.jpg'
+import wonlex3 from './wonlex3.jpg'
+import wonlex4 from './wonlex4.jpg'
+import wonlex5 from './wonlex5.jpg'
+import wonlex6 from './wonlex6.jpg'
+import pinkwonlex1 from './pinkwonlex1.jpg'
+import pinkwonlex2 from './pinkwonlex2.jpg'
+import pinkwonlex3 from './pinkwonlex3.jpg'
+import pinkwonlex4 from './pinkwonlex4.jpg'
+import pinkwonlex5 from './pinkwonlex5.jpg'
+import pinkwonlex6 from './pinkwonlex6.jpg'
+import ticktalk1 from './ticktalk1.webp'
+import ticktalk2 from './ticktalk2.jpg'
+import ticktalk3 from './ticktalk3.jpg'
+import ticktalk4 from './ticktalk4.jpg'
+import ticktalk5 from './ticktalk5.jpg'
+import ticktalk6 from './ticktalk6.jpg'
+import ticktalk7 from './ticktalk7.jpg'
+
+
+
+
+
 
 
 
@@ -629,7 +665,39 @@ export const assets = {
     cofuo4,
     cofuo5,
     cofuo6,
-    cofuo7
+    cofuo7,
+    stopwatch1,
+    stopwatch2,
+    stopwatch3,
+    stopwatch4,
+    stopwatch5,
+    stopwatch6,
+    pinkstopwatch1,
+    pinkstopwatch2,
+    pinkstopwatch3,
+    pinkstopwatch4,
+    pinkstopwatch5,
+    pinkstopwatch6,
+    wonlex1,
+    wonlex2,
+    wonlex3,
+    wonlex4,
+    wonlex5,
+    wonlex6,
+    pinkwonlex1,
+    pinkstopwatch2,
+    pinkstopwatch3,
+    pinkstopwatch4,
+    pinkstopwatch5,
+    pinkstopwatch6,
+    ticktalk1,
+    ticktalk2,
+    ticktalk3,
+    ticktalk4,
+    ticktalk5,
+    ticktalk6,
+    ticktalk7,
+
 
     
 
@@ -1186,10 +1254,10 @@ export const products =[{
 },
 {
     _id: "aaaaa17",
-    name: "Kids Wrist Watch", 
-    description: "A lightweight kids wrist watch",
-    price: 500,
-    image: [], 
+    name: "Kids Digital Watches for Girls Boys, Sports Watch with Fitness Tracker, Pedometer, Alarm Clocks, Stopwatch, No App Needed & Waterproof Kids Watch, Gift for Teens Girls Boys Ages 5-14", 
+    description: "•🎁Kids Fitness Watch: Empowering Little Adventurers! No phone pairing, no apps required - wear this little kids fitness buddy to intelligently monitor steps taken, time races with the stopwatch, manage calories burned, track miles explored, and record daily workouts, so the fun of kids fitness starts with the Timever Cute Cat Watches!\n• ⏰Silent Vibration Alarm Clock: Allows parents to set two intimate alarms to remind children to study, rest, drink water, etc. on time. This design only uses gentle vibration reminders, which will not disturb the child's focused time in the classroom, but also ensure the child's daily routine and perfectly respect the tranquility of the surrounding environment. It is an ideal choice for students' daily use.\n• ⚡Excellent Battery Performance: This digital watch for kids has a USB charging port. Compatible with a wide range of smartphone chargers, computer ports, and portable power sources, it can be easily recharged and lasts up to about 15 days after a single full charge, providing long-lasting companionship for your child.\n• ✅High-Quality Materials -The timever girl kids watch is made of an environmentally friendly ABS plastic case with high-quality stainless steel metal fittings to ensure the durability of the electronic watch. A special selection of food-grade silicone straps, soft and skin-friendly, designed for children, both safe and comfortable, careful care of children's delicate wrists.\n• 💦Daily Kids Waterproof Watch: Designed specifically for everyday water resistance, it can be worn with peace of mind whether washing hands, face or encountering light rain. But to ensure long-term performance and service life, avoid using it in activities such as swimming, hot baths, and prolonged water immersion.",
+    price: 21.19,
+    image: [stopwatch1, stopwatch2, stopwatch3, stopwatch4, stopwatch5, stopwatch6], 
     category: "Kids",
     subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
@@ -1225,10 +1293,10 @@ export const products =[{
 },
 {
     _id: "aaaaa20",
-    name: "Kids Wrist Watch", 
-    description: "A lightweight kids wrist watch",
-    price: 1100,
-    image: [], 
+    name: "Kids Digital Watches for Girls Boys, Sports Watch with Fitness Tracker, Pedometer, Alarm Clocks, Stopwatch, No App Needed & Waterproof Kids Watch, Gift for Teens Girls Boys Ages 5-14", 
+    description: "• 🎁Kids Fitness Watch: Empowering Little Adventurers! No phone pairing, no apps required - wear this little kids fitness buddy to intelligently monitor steps taken, time races with the stopwatch, manage calories burned, track miles explored, and record daily workouts, so the fun of kids fitness starts with the Timever Cute Cat Watches!\n• ⏰Silent Vibration Alarm Clock: Allows parents to set two intimate alarms to remind children to study, rest, drink water, etc. on time. This design only uses gentle vibration reminders, which will not disturb the child's focused time in the classroom, but also ensure the child's daily routine and perfectly respect the tranquility of the surrounding environment. It is an ideal choice for students' daily use.\n• ⚡Excellent Battery Performance: This digital watch for kids has a USB charging port. Compatible with a wide range of smartphone chargers, computer ports, and portable power sources, it can be easily recharged and lasts up to about 15 days after a single full charge, providing long-lasting companionship for your child.\n• ✅High-Quality Materials -The timever girl kids watch is made of an environmentally friendly ABS plastic case with high-quality stainless steel metal fittings to ensure the durability of the electronic watch. A special selection of food-grade silicone straps, soft and skin-friendly, designed for children, both safe and comfortable, careful care of children's delicate wrists.\n• 💦Daily Kids Waterproof Watch: Designed specifically for everyday water resistance, it can be worn with peace of mind whether washing hands, face or encountering light rain. But to ensure long-term performance and service life, avoid using it in activities such as swimming, hot baths, and prolonged water immersion.",
+    price: 21.19,
+    image: [pinkstopwatch1, pinkstopwatch2, pinkstopwatch3, pinkstopwatch4, pinkstopwatch5, pinkstopwatch6], 
     category: "Kids",
     subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
@@ -1264,10 +1332,10 @@ export const products =[{
 },
 {
     _id: "aaaaa23",
-    name: "Kids Wrist Watch", 
-    description: "A lightweight kids wrist watch",
-    price: 5200,
-    image: [], 
+    name: "wonlex 4G Kids Smart Watch with GPS Tracker, Video Calling, Camera, SOS Emergency, 1.4 Inch Unlocked Kids Cell Phone Watch Birthday Gifts for Boys Girls Ages 3-10", 
+    description: "• ⌚【Video Calling & Voice Chat 】-- This smartwatch for kid has Safe Calling, Voice Chat message, SMS, Family Group Chat, Clock, Camera, Alarms, Steps Counter, Stop Watch, Voice Record and Touch to add friends. As for parents, you can send messages or make a video call or voice chat with your child anytime or anywhere, also you can send pictures, which makes the communication more interesting.\n• ⌚【GPS Tracker & Safety Zones】The kids gps tracker watch built-in Wifi GPS LBS locator to provide you more accurate positioning about your kid's location. Parents can check your kid's location and history at any time through the app. Parents can set up safety zones around key locations such as home and school, and when your child leaves the safety zone, a notification will be sent to your APP to ensure your child's safety.\n• ⌚【Games Kids Smart Watch】: Kids smart watch with game for girls boys have 7 puzzle games, more challenging and diverse than the simple boring games on the market. The kids' games are more playable and can effectively exercise children's reaction ability, logical thinking, and hand-eye coordination.\n• ⌚【1.4 Large Screen & 680mAh Battery】-- The children's watch is equipped with a 1.4-inch OGS color touch screen, and the display effect is vivid and delicate. It can be fully charged in two hours. Normally, a 680mAh large battery capacity provides 72 hours of standby time, to avoid the trouble of forgetting to charge and always keep the connection.\n• ⌚【Package Content】-- The package includes Kids Smart Watch*1, Speedtalk SIM Card*1, Charging Cable*2, Tempered Glass Screen Protector*1, Alcohol Pad*1, and User Manual*1. There comes a Speedtalk card with this smart watch for kids. If you don't want to use it, we suggest T-mobile 4G sim card for your choice.\n• ⌚【Warm Tips】-This watch is IP67 waterproof, do NOT wear the watch to swim or take a shower, and it is best to take down the watch to wash hands or do other work and water contact. [Kindly remind that Verizon isn't compatible.]",
+    price: 44.99,
+    image: [wonlex1, wonlex2, wonlex3, wonlex4, wonlex5, wonlex6], 
     category: "Kids",
     subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
@@ -1303,10 +1371,10 @@ export const products =[{
 },
 {
     _id: "aaaaa26",
-    name: "Kids Wrist Watch", 
-    description: "A lightweight kids wrist watch",
-    price: 500,
-    image: [], 
+    name: "wonlex 4G Kids Smart Watch with GPS Tracker, Video Calling, Camera, SOS Emergency, 1.4 Inch Unlocked Kids Cell Phone Watch Birthday Gifts for Boys Girls Ages 3-10", 
+    description: "• Video Calling & Voice Chat -- This smartwatch for kid has Safe Calling, Voice Chat Message, Clock, Camera, Alarms, Steps Counter, Stop Watch, Voice Record. Parents can send messages or make a video call or voice chat with your child anytime or anywhere.\n• GPS Tracker --The kids gps tracker watch built-in Wifi GPS LBS locator to provide you more accurate positioning about your kid's location. Parents can check your kid's location and history at any time through the app.\n• Safety Zones -- Parents can set up safety zones around key locations such as home and school, and when your child leaves the safety zone, a notification will be sent to your APP to ensure your child's safety.\n• Kids Smart Watch--Kids smart watch for girls boys have 7 puzzle games, more challenging and diverse. The kids' games are more playable and can effectively exercise children's reaction ability, logical thinking, and hand-eye coordination.\n• 1.4 Large Screen & 680mAh Battery -- The children's watch is equipped with a 1.4-inch OGS color touch screen, and the display effect is vivid and delicate. It can be fully charged in two hours. Normally, a 680mAh large battery capacity provides 72 hours of standby time, to avoid the trouble of forgetting to charge and always keep the connection.\n• Package Content-- The package includes Kids Smart Watch*1, SIM Card*1, Charging Cable*2, Screen Protector*1, and User Manual*1. There comes a Speedtalk card with this smart watch for kids. If you don't want to use it, we suggest T-mobile 4G sim card.",
+    price: 89.99,
+    image: [pinkwonlex1, pinkwonlex2, pinkwonlex3, pinkwonlex4, pinkwonlex5, pinkwonlex6], 
     category: "Kids",
     subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
@@ -1342,10 +1410,10 @@ export const products =[{
 },
 {
     _id: "aaaaa29",
-    name: "Kids Wrist Watch", 
-    description: "A lightweight kids wrist watch",
-    price: 20,
-    image: [], 
+    name: "TickTalk 5 - Kids Smart Watch with GPS Tracker, Video Calling, SOS, & Parental Controls | Smartwatch with Free Music, Texting, Kid Phone Call and Text, Boys & Girls - 4G Smart Watch for Kids 3-12", 
+    description: "• HD VOICE & VIDEO CALLS: TickTalk 5 is a standalone 4G LTE kids smartwatch that supports voice and video calls through WiFi or cellular data. Equipped with a 5MP front camera, TickTalk 5 provides smooth, HD-quality voice and video calls. The watch features quick-dial buttons for 911 and other emergency contacts, instantly notifying parents with the location of emergency calls for added peace of mind.\n• SECURED MESSAGING: TickTalk 5 delivers the most expansive messaging experience in a kid’s smartwatch. Enjoy seamless Talk-to-Text, quick responses, voice recordings, emojis, GIFs, and group chats—all secured with end-to-end encryption. Stay connected with your family while ensuring safety and privacy.\n• PRECISE LOCATION TRACKING & SMARTPIN: Powered by Google Maps and enhanced with TickTalk Location SmartPin, the first AI-powered location correction for kids' smartwatches in the U.S., TickTalk 5 provides accurate real-time location tracking and route playback. SmartPin uses AI algorithms to continuously refine GPS accuracy, ensuring pinpoint precision—even indoors. Parents are instantly notified of emergency calls with location updates, offering peace of mind and reassurance.\n• SUPERIOR PERFORMANCE: Featuring unique SignalBooster technology, TickTalk 5 delivers superior signal coverage across 4G LTE networks worldwide, along with Wi-Fi and Bluetooth compatibility. Optimized firmware and a high-performance battery provide up to 100+ hours of standby time, keeping your child connected all day long.\n• MOST POWERFUL PARENTAL CONTROLS: Manage your child’s safety effortlessly with the TickTalk Parental Control app. Add trusted contacts, block unknown callers, view call logs, set reminders, enable School Mode, create watch passwords, invite new app users while managing their permissions, and control watch data T-Cloud backups—all from your smartphone.\n• KID-FRIENDLY MUSIC & WELLNESS: Encourage healthy habits with a built-in activity tracker, customizable step goals, and 3D reminders. TickTalk 5 offers free kid-friendly streaming music powered by the iHeartRadio Family app, with usage limits managed through the TickTalk app.\n• PRACTICAL & FUN APPS: Designed with kids in mind, TickTalk 5 includes practical tools like a calculator, calendar, timer, stopwatch, photo filters, and e-greeting cards—no games, no social media.\n• UNMATCHED SIGNAL & GLOBAL CONNECTIVITY: Designed for the best nationwide signal coverage, TickTalk 5 supports up to 9 LTE bands for reliable connectivity across the U.S. and seamless use in many countries worldwide.\n• BUILT FOR KIDS, TRUSTED BY FAMILIES: Made for kids ages 3-12, TickTalk 5 is IP67 water-resistant, shockproof, and dustproof for active play. Its ScreenSafe design reduces screen damage, with regular updates and reliable customer support to keep families satisfied.",
+    price: 159.99,
+    image: [ticktalk1, ticktalk2, ticktalk3, ticktalk4, ticktalk5, ticktalk6, ticktalk7], 
     category: "Kids",
     subCategory: "Kids watch",
     sizes: ["M", "L", "XL"],
