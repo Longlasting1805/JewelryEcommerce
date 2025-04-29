@@ -351,19 +351,16 @@ import ticktalk04 from './ticktalk04.jpg'
 import ticktalk05 from './ticktalk05.jpg'
 import ticktalk06 from './ticktalk06.jpg'
 import ticktalk07 from './ticktalk07.jpg'
-
-
-
-
-
-
-
+import latestarrival from './latestarrival.jpeg'
+import newarrival1 from './newarrival1.jpeg'
+import newarrival2 from './newarrival2.webp'
 
 
 
 
 
 export const assets = {
+    newarrival2,
     diamondlogo,
     search_icon,
     cart_icon,
@@ -712,6 +709,7 @@ export const assets = {
     ticktalk05,
     ticktalk06,
     ticktalk07,
+    latestarrival
     
 
 
