@@ -7,6 +7,8 @@ export default defineConfig({
   css: {
     postcss: {
       plugins: [tailwindcss()],
+      server: {port : 5173}
+
     },
   },
 });
