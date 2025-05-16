@@ -11,7 +11,7 @@ const Collection = () => {
     const [showFilter, setShowFilter] = useState(false)
     const [filterProducts, setFilterProducts] = useState([])
     const [category, setCategory] = useState([])
-    const [subCategory, setSubCatigory] = useState([])
+    const [subCategory, setSubCategory] = useState([])
     const [sortType, setSortType] = useState('relevant')
 
     const toggleCategory = (e) => {
@@ -25,10 +25,10 @@ const Collection = () => {
 
     const toggleSubCategory = (e) => {
         if (subCategory.includes(e.target.value)) {
-            setSubCatigory(prev => prev.filter(item => item != e.target.value))
+            setSubCategory(prev => prev.filter(item => item != e.target.value))
         }
         else{
-            setSubCatigory(prev=> [...prev, e.target.value])
+            setSubCategory(prev=> [...prev, e.target.value])
         }
     }
 

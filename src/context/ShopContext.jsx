@@ -32,10 +32,10 @@ const ShopContextProvider = (props) => {
 
         if (cartData[itemId]){
             if(cartData[itemId][size]){
-                cartData[itemId][size] += 1
+                cartData[itemId][size] += 1;
             }
             else{
-                cartData[itemId][size] = 1
+                cartData[itemId][size] = 1;
             }
         }
         else{
@@ -43,6 +43,18 @@ const ShopContextProvider = (props) => {
             cartData[itemId][size] = 1
         }
         setCartItems(cartData)
+
+        if (token){
+            try {
+                
+               await axios.post(backendUrl + '/api/cart/add', {itemId, size}, {headers: {token}})
+
+            } catch (error) {
+                console.log(error);
+                toast.error(error.message)
+                
+            }
+        }
     }
 
     
