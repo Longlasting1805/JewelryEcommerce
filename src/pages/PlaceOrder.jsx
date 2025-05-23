@@ -57,6 +57,7 @@ const PlaceOrder = () => {
         address: formData,
         items: orderItems,
         amount: getCartAmount() + delivery_fee
+        
       }
 
       switch (method) {
@@ -64,29 +65,40 @@ const PlaceOrder = () => {
         // api calls for cod
         case 'cod':
           const response = await axios.post(backendUrl + '/api/order/place', orderData, { headers: { token } })
-          if (response.data.success) {         
+          if (response.data.success) {
             setCartItems({})
             navigate('/orders')
-          }else {
+          } else {
             toast.error(response.data.message)
           }
 
           break;
 
         case 'stripe':
-          const responseStripe = await axios.post(backendUrl + '/api/order/stripe', orderData, {headers: {token}})
+          const responseStripe = await axios.post(backendUrl + '/api/order/stripe', orderData, { headers: { token } })
           if (responseStripe.data.success) {
-            const {session_url} = responseStripe.data
+            const { session_url } = responseStripe.data
             window.location.replace(session_url)
-            
-          }else{
+
+          } else {
             toast.error(responseStripe.data.message)
           }
 
+          break;
 
+        case 'flutterwave':
+          const responseFlutterwave = await axios.post(backendUrl + '/api/order/flutterwave', orderData, { headers: { token } })
+          console.log(responseFlutterwave.data);
 
+          if (responseFlutterwave.data.success) {
+            window.location.href = responseFlutterwave.data.paymentLink;
 
-         break;
+          } else {
+            toast.error(responseFlutterwave.data.message)
+
+          }
+
+          break;
 
         default:
           break;
@@ -98,7 +110,7 @@ const PlaceOrder = () => {
     } catch (error) {
       console.log(error);
       toast.error(error.message)
-      
+
 
     }
   }
