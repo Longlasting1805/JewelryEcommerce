@@ -14,7 +14,7 @@ const About = () => {
         <img className='w-full md:max-w-[450px]' src={assets.about_us} alt="" />
         <div className='flex flex-col justify-center gap-6 md:w-2/4 text-gray-600'>
             <p> Diamond Jewelry was born out of a passion for innovation and a desire to revolutionize the way people shop online. Our journey began with a simple idea: to provide a platform where customers can easily discover, explore, and purchase a wide range of products from the comfort of their homes.</p>
-            <p>Since our inception, we've worked tireless to curate a diverse selection of high quality products that cater to every taste and prefrence. from fasion and beauty to electronics and home essentials, we offer an extensive collection sourced from trusted brands and suppliers.</p>
+            <p>Since our inception, we've worked tireless to curate a diverse selection of high quality products that cater to every taste and prefrence. we offer an extensive collection sourced from trusted brands and suppliers.</p>
             <p>Our mission at Diamond Jewelry is to empower customers with choice, convinience, and confidence. we're dedicated to providing a seamless shopping experience that exceeds expectations, from browsing and ordering to delivery and beyond.</p>
         </div>
       </div>
