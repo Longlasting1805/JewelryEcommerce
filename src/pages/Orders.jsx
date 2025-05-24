@@ -3,6 +3,8 @@ import { ShopContext } from '../context/ShopContext'
 import Title from '../components/Title'
 import axios from 'axios'
 
+const API_BASE = process.env.REACT_APP_API_URL;
+
 const Orders = () => {
 
   const { backendUrl, token, currency } = useContext(ShopContext)
@@ -15,7 +17,7 @@ const Orders = () => {
         return null
         
       }
-      const response = await axios.post(backendUrl + '/api/order/userorders', {}, {headers: {token}})
+      const response = await axios.post(backendUrl + `${API_BASE}/api/order/userorders`, {}, {headers: {token}})
       if(response.data.success){
         let allOrdersItem  = []
         response.data.orders.map((order)=>{
